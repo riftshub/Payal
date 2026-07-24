@@ -1,0 +1,2455 @@
+{
+    "1429768597": {
+        "points": 3,
+        "accounts": {
+            "ACC7224F9440B7A420DBDB373C3FF8CE8E13": {
+                "phone": "9695237980",
+                "account_id": "ACC7224F9440B7A420DBDB373C3FF8CE8E13",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ3OTgzNjEsImlhdCI6MTc4NDc5NjU2MSwiaXNzIjoia2V2bGFyIiwianRpIjoiZGY5ZGE4ZTItOWU0Yy00ZjNkLWEzYzMtM2I5Mzg0N2JmZDQ4IiwidHlwZSI6IkFUIiwiZElkIjoiNzc4NWQzMjE1NWQxNDkzMmFkNmY4Y2EwYTIxODIzM2EiLCJiSWQiOiIwSE1EUloiLCJrZXZJZCI6IlZJODA0RDVCMDRBMDQzNEYxNTgzNjcwMjhGODI1ODQ4NEEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IlpxX016UTkxQ1kwWkE4a0ZONnA4TUYyVW5Tdjd1UkJEY2ExemJ5REJ5akZyM2oyQUpmcE54Zz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.NXsFPqjAmm4VibQiVcaRE7Wd-IZj02mUpbcs6MOIOlY",
+                    "sn": "VI804D5B04A0434F158367028F8258484A.TOK74D2093234A444D9AF9836C959ECFD74.0.LI",
+                    "vid": "VI804D5B04A0434F158367028F8258484A",
+                    "secure_token": "VI804D5B04A0434F158367028F8258484A:VI804D5B04A0434F158367028F8258484A",
+                    "secure_cookie": "d1t17PwUYFz8/fT8/Pz9jSkYtdvym/9bGRh69Ru7vBglhoEBJHu9TsF/wyUs42A40JHuC9D+Kg7+F2eVmtE3eDRZSzQ==",
+                    "account_id": "ACC7224F9440B7A420DBDB373C3FF8CE8E13",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "7785d32155d14932ad6f8ca0a218233a",
+                    "visit_id": "b5d11ff31f59495c91e7454d37450638-1784796536425"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-A256B",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003.A1",
+                    "app_version": "2291177"
+                }
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86": {
+                "phone": "8679341293",
+                "account_id": "ACC938B27A29B5B456E954EA8A8D7A1CC86",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTM3NjYsImlhdCI6MTc4NDgxMTk2NiwiaXNzIjoia2V2bGFyIiwianRpIjoiMzg0ZTFlNGMtNTdlOS00ZjNhLWE2YmEtZWJjM2IwYzk1ZGZkIiwidHlwZSI6IkFUIiwiZElkIjoiNjEzNjE5Mjc0ZGRhNGI2ZTgzYTViZjFhZGExNmNlYzQiLCJiSWQiOiI3VUVDVzAiLCJrZXZJZCI6IlZJRTI5NUMzMjNGQzI2NEZFMUFBMDc0RkM1NzE2MTJBMjgiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Im9nRmpXMWt1NVJDcmF2S1pGMnVJcGVmRDlhYXhaWGJDQ2p0ZDJjdEdZLV91ZVRZSUpiVGtkQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.NJyKB5UNNoo6RaPew-UaIT11mn14i9PkO6FuPfryXnQ",
+                    "sn": "VIE295C323FC264FE1AA074FC571612A28.TOK65C5D2F977BC4BC298D5F1B35D4873C6.0.LI",
+                    "vid": "VIE295C323FC264FE1AA074FC571612A28",
+                    "secure_token": "VIE295C323FC264FE1AA074FC571612A28:VIE295C323FC264FE1AA074FC571612A28",
+                    "secure_cookie": "d1t16Pz8/PyQ/Pz8/ImxWb2tzN9vHTuzXW/Yl4CBshUjuLwDpAmtmG1+bG9qQ1+MOaSz5WAWdDVokfhj9eZh3uE0iDw==",
+                    "account_id": "ACC938B27A29B5B456E954EA8A8D7A1CC86",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "613619274dda4b6e83a5bf1ada16cec4",
+                    "visit_id": "c499d6d4b0c44273b27645a030594dea-1784811947633",
+                    "added_at": "2026-07-23T18:36:07.406042"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-S911B",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.C1",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "joined_programs": [
+            "airdrop"
+        ],
+        "task_history": {
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Super Runner": {
+                "completed_at": "2026-07-23T18:36:20.239750",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_City Builder": {
+                "completed_at": "2026-07-23T18:36:23.737063",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Fruit Crush": {
+                "completed_at": "2026-07-23T18:36:26.817755",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Grocery Match": {
+                "completed_at": "2026-07-23T18:36:29.606014",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Ludo": {
+                "completed_at": "2026-07-23T18:36:32.564713",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Nazar Pop": {
+                "completed_at": "2026-07-23T18:36:35.410018",
+                "earned_coins": 4
+            },
+            "ACC938B27A29B5B456E954EA8A8D7A1CC86_Gullak": {
+                "completed_at": "2026-07-23T18:36:36.947130",
+                "earned_coins": 0
+            }
+        }
+    },
+    "7178096331": {
+        "points": 3,
+        "accounts": {
+            "ACCFDC12BD1380F492F81D6AD9A3F74FE039": {
+                "phone": "8917527649",
+                "account_id": "ACCFDC12BD1380F492F81D6AD9A3F74FE039",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ3OTkwMjEsImlhdCI6MTc4NDc5NzIyMSwiaXNzIjoia2V2bGFyIiwianRpIjoiNzFkOWE1MjAtNDJhOS00NmMzLTgwNDctZDU1NmE2MDA4ODFlIiwidHlwZSI6IkFUIiwiZElkIjoiYWVjOWQ4ZTdmZTEyNDM5Yjk5MTZmYmZjOTlmMTk4M2MiLCJiSWQiOiJMWThZRloiLCJrZXZJZCI6IlZJM0I0NjcyQjQ0OEJDNDdGNEI3MkZEMEFCNTBEOUYyMzYiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ikl1b0V3Wk8zMDI5b0thenVkeGxZVzhjZXFGRG9XS25xb3ZYVHZTT2xYQVdpbkR2Ykc2YXZPUT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.1gIrn_5FAR3GjoEMtYocX3hlWQL-0ODARmUuNyBEQN4",
+                    "sn": "VI3B4672B448BC47F4B72FD0AB50D9F236.TOK8275B1CF343042598F96C5A0D12D63FB.0.LI",
+                    "vid": "VI3B4672B448BC47F4B72FD0AB50D9F236",
+                    "secure_token": "VI3B4672B448BC47F4B72FD0AB50D9F236:VI3B4672B448BC47F4B72FD0AB50D9F236",
+                    "secure_cookie": "d1t15Lh4/Pz8/Pzh/fD9eP2U/M7cCHhERh3VZsBBOEt9LJILYguLofsjYmXBsBnSrCfKLfRv47wud+pZNbV31oIuRDQ==",
+                    "account_id": "ACCFDC12BD1380F492F81D6AD9A3F74FE039",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "aec9d8e7fe12439b9916fbfc99f1983c",
+                    "visit_id": "91694df9a01348918d4ceea28a8170d3-1784797201768"
+                },
+                "device": {
+                    "brand": "OnePlus",
+                    "model": "OnePlus Nord 2",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.A1",
+                    "app_version": "2291177"
+                }
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M": {
+                "phone": "9113285084",
+                "account_id": "ACC0E2566D7D22944BEBC49C1B05A79A344M",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ3OTkxMTcsImlhdCI6MTc4NDc5NzMxNywiaXNzIjoia2V2bGFyIiwianRpIjoiNzRiNmUyMmYtZWFmOS00MDAzLWI5MmMtMmMxOWY4NjA1MTJlIiwidHlwZSI6IkFUIiwiZElkIjoiYjRkODI1MGQxNGI3NGZmZTgwYTliMWVhOWEwNjhkMTciLCJiSWQiOiJZQUdFRDQiLCJrZXZJZCI6IlZJMDI4QkY4NzAwNTNFNDU1NEEyRUY2OTAwMTZBNjM0NzgiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjhFTGlqWTNQNGh2am5sMWhWZm4tUjVxQUZaZnRpT1gySnl5eG5HbC01LWZrdk5MRjFtUnMtUT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.Eub3q5UH8ClGPdlljdJ0ZoucFWTkuOl6LjlS6vVp7nc",
+                    "sn": "VI028BF870053E4554A2EF690016A63478.TOK3779DAA00E564842A7267CCFC3CBE440.0.LI",
+                    "vid": "VI028BF870053E4554A2EF690016A63478",
+                    "secure_token": "VI028BF870053E4554A2EF690016A63478:VI028BF870053E4554A2EF690016A63478",
+                    "secure_cookie": "d1t10P3o/bz8/OUk5Pz8/Pz8hP2ui/8oLd6Qw2faIYJGk62+/VRzpg+YezAtiR9IX3PsmHdEcaPMZjfb7rfDC+RukIQ==",
+                    "account_id": "ACC0E2566D7D22944BEBC49C1B05A79A344M",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "b4d8250d14b74ffe80a9b1ea9a068d17",
+                    "visit_id": "3e9846a2b672446591eba74338ed31c3-1784797301142"
+                },
+                "device": {
+                    "brand": "Motorola",
+                    "model": "Moto Edge 30 Pro",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003.B1",
+                    "app_version": "2291175"
+                }
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC": {
+                "phone": "7339083784",
+                "account_id": "ACCDC8C27DBFB5945E2A5494E2FADC744FC",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTY1MjYsImlhdCI6MTc4NDgxNDcyNiwiaXNzIjoia2V2bGFyIiwianRpIjoiOTQ2ODJiOWQtMmU5OS00MDhkLTg0N2YtNzVjN2VjYjdjODU1IiwidHlwZSI6IkFUIiwiZElkIjoiNjQ3ZjRmNWRhNDE4NDkzZmJiODBiYTg1Mzk1ODRhNDIiLCJiSWQiOiJGR1VZOU4iLCJrZXZJZCI6IlZJMUVCNkYyODMzRTFENDc1QThENzc2OEZERTg4RTdFMDkiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkU5ZDQ3Nzdra2F2S3NNblpzNXczenh4bWFocGVHT29FT3Z3LXlCWmJicXpHMGtfcjN1eURsUT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.8pD6Z3kjHDuFv6mgRHC6q7dmKbv1hBlm-aMquexHFSg",
+                    "sn": "VI1EB6F2833E1D475A8D7768FDE88E7E09.TOK00AC7A2D3AC44FF8A5BC21A76FB0DE03.0.LI",
+                    "vid": "VI1EB6F2833E1D475A8D7768FDE88E7E09",
+                    "secure_token": "VI1EB6F2833E1D475A8D7768FDE88E7E09:VI1EB6F2833E1D475A8D7768FDE88E7E09",
+                    "secure_cookie": "d1t16PytuKj9SHT8yCTY/PxQ/Pwab2GfJFtH0jzDTp1aEdsDnndeseG+zomIDbXThhxkJxVbKkJocmUF3rFc4piVkYw==",
+                    "account_id": "ACCDC8C27DBFB5945E2A5494E2FADC744FC",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "647f4f5da418493fbb80ba8539584a42",
+                    "visit_id": "5040872384d741df91931a568c945beb-1784814709593",
+                    "added_at": "2026-07-23T19:22:07.255411"
+                },
+                "device": {
+                    "brand": "Google",
+                    "model": "Pixel 6",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.C1",
+                    "app_version": "2291178"
+                }
+            },
+            "ACCA1848793BD50456585451B972DB890B6": {
+                "phone": "9416738565",
+                "account_id": "ACCA1848793BD50456585451B972DB890B6",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4MjI5MzQsImlhdCI6MTc4NDgyMTEzNCwiaXNzIjoia2V2bGFyIiwianRpIjoiMWM2MGJlZjItYzBlZS00YWNjLWFhYTktMTQzZmY3YmNkZTAxIiwidHlwZSI6IkFUIiwiZElkIjoiMmRkYzE5MGEyMWY0NGNmY2FjN2I4Zjk0MzA4MjFmYmIiLCJiSWQiOiJSTzROQTciLCJrZXZJZCI6IlZJMTY4NjNCREZDOUJGNDk0MEE5OEFERERERUIzODczRkEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6InlIbkNIV0RraUNqNXZvQmM3emVFUUxaeENnSGVjTllrNGJxSVliR0I0UGVwSEFCNjRqS3prQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.QSr6u1l2jzQv_iu3VxLLSt2-NpHioROKlbnA31KeW9U",
+                    "sn": "VI16863BDFC9BF4940A98ADDDDEB3873FA.TOK059957B6E8F745139A989ED6C3083AD6.0.LI",
+                    "vid": "VI16863BDFC9BF4940A98ADDDDEB3873FA",
+                    "secure_token": "VI16863BDFC9BF4940A98ADDDDEB3873FA:VI16863BDFC9BF4940A98ADDDDEB3873FA",
+                    "secure_cookie": "d1t11Ij8YPz8/PyA/bD5McD8/SrxQWYBfj187xnjZ5pA8Ldh8khzRK4EHwLBc3Se97F0L5Hvzepec5CuOnrLtMbe4xA==",
+                    "account_id": "ACCA1848793BD50456585451B972DB890B6",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "2ddc190a21f44cfcac7b8f9430821fbb",
+                    "visit_id": "f70908546a84476c8828b08cd5e86494-1784821109953",
+                    "added_at": "2026-07-23T21:08:55.120678"
+                },
+                "device": {
+                    "brand": "OPPO",
+                    "model": "A98",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.D1",
+                    "app_version": "2291176",
+                    "screen_width": 720,
+                    "screen_height": 1920,
+                    "language": "en-IN,en;q=0.9"
+                }
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO": {
+                "phone": "9416543295",
+                "account_id": "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODI5MjcsImlhdCI6MTc4NDg4MTEyNywiaXNzIjoia2V2bGFyIiwianRpIjoiZDdlNGM5MTItYmY4MC00Nzg0LWFiYzMtYjA0YjcwOTMwNGQxIiwidHlwZSI6IkFUIiwiZElkIjoiYTJiNGE0MTk2ZjlhNDhhMjlhMTliOTVmZDA5OGFjOGUiLCJiSWQiOiJNRklMUVgiLCJrZXZJZCI6IlZJREU0OTA2QzU4NjRGNDM3MzgzNUY5RkQyNDVGQjk4QTkiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjVfWHF3THZiakZzVHNORlJ4Tm5ucGUwc1Zkb3VLWUlPeUJHdVEwSm9jaUtMNld0OE9qVFpVdz09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.SdlpFSkJCpPpll00Iy5n8fNNWi32_bs6k3cSOpX2yC0",
+                    "sn": "VIDE4906C5864F4373835F9FD245FB98A9.TOK018554EEAA934562888800C91DDF672D.0.LI",
+                    "vid": "VIDE4906C5864F4373835F9FD245FB98A9",
+                    "secure_token": "VIDE4906C5864F4373835F9FD245FB98A9:VIDE4906C5864F4373835F9FD245FB98A9",
+                    "secure_cookie": "d1t10CD8/Pz8/Pz8/Pz8CLz8FPz+K2XvhOCAnGDTTR7Zpe9M9AhxeuHjwXSWcxPfsBk5kUmE5/lbDU4LgeLzuHFB8MQ==",
+                    "account_id": "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "a2b4a4196f9a48a29a19b95fd098ac8e",
+                    "visit_id": "e663c4499fbb4311a0f476b5b2815f66-1784881116670",
+                    "added_at": "2026-07-24T13:48:47.569968"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-F936B",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.B1",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Super Runner": {
+                "completed_at": "2026-07-23T16:08:15.386689",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_City Builder": {
+                "completed_at": "2026-07-23T16:08:16.849946",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Fruit Crush": {
+                "completed_at": "2026-07-23T16:08:18.224124",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Grocery Match": {
+                "completed_at": "2026-07-23T16:08:19.595859",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Ludo": {
+                "completed_at": "2026-07-23T16:08:20.923024",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Nazar Pop": {
+                "completed_at": "2026-07-23T16:08:22.357505",
+                "earned_coins": 0
+            },
+            "ACC0E2566D7D22944BEBC49C1B05A79A344M_Gullak": {
+                "completed_at": "2026-07-23T16:08:24.461869",
+                "earned_coins": 0
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Super Runner": {
+                "completed_at": "2026-07-23T19:22:22.485733",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_City Builder": {
+                "completed_at": "2026-07-23T19:22:25.527900",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Fruit Crush": {
+                "completed_at": "2026-07-23T19:22:28.520961",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Grocery Match": {
+                "completed_at": "2026-07-23T19:22:36.064684",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Ludo": {
+                "completed_at": "2026-07-23T19:23:14.399758",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Nazar Pop": {
+                "completed_at": "2026-07-23T19:23:17.390865",
+                "earned_coins": 4
+            },
+            "ACCDC8C27DBFB5945E2A5494E2FADC744FC_Gullak": {
+                "completed_at": "2026-07-23T19:23:19.045433",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Super Runner": {
+                "completed_at": "2026-07-23T20:36:35.034260",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_City Builder": {
+                "completed_at": "2026-07-23T20:36:36.339254",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Fruit Crush": {
+                "completed_at": "2026-07-23T20:36:39.653084",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Grocery Match": {
+                "completed_at": "2026-07-23T20:36:41.156568",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Ludo": {
+                "completed_at": "2026-07-23T20:36:42.587133",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Nazar Pop": {
+                "completed_at": "2026-07-23T20:36:44.039392",
+                "earned_coins": 0
+            },
+            "ACC088177971B5A4582BE49369739C15646_Gullak": {
+                "completed_at": "2026-07-23T20:36:45.904014",
+                "earned_coins": 0
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Super Runner": {
+                "completed_at": "2026-07-24T09:42:46.915008",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_City Builder": {
+                "completed_at": "2026-07-24T09:42:49.536973",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Fruit Crush": {
+                "completed_at": "2026-07-24T09:42:52.843028",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Grocery Match": {
+                "completed_at": "2026-07-24T09:42:55.616839",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Ludo": {
+                "completed_at": "2026-07-24T09:42:58.886200",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Nazar Pop": {
+                "completed_at": "2026-07-24T09:43:01.646138",
+                "earned_coins": 1
+            },
+            "ACCA1848793BD50456585451B972DB890B6_Gullak": {
+                "completed_at": "2026-07-24T09:43:03.059881",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Super Runner": {
+                "completed_at": "2026-07-24T13:57:00.580018",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_City Builder": {
+                "completed_at": "2026-07-24T13:57:02.288242",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Fruit Crush": {
+                "completed_at": "2026-07-24T13:57:03.814883",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Grocery Match": {
+                "completed_at": "2026-07-24T13:57:05.328053",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Ludo": {
+                "completed_at": "2026-07-24T13:57:06.647878",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Nazar Pop": {
+                "completed_at": "2026-07-24T13:57:08.280810",
+                "earned_coins": 0
+            },
+            "ACCB74E3E18C36F444FA0F1F9CAE0FD7CAAO_Gullak": {
+                "completed_at": "2026-07-24T13:57:10.229304",
+                "earned_coins": 0
+            }
+        },
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-23T17:05:50.270712",
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "referred_verified": true
+    },
+    "7946053129": {
+        "points": 3
+    },
+    "8296510692": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-23T16:50:11.761912",
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "points": 3,
+        "referred_verified": true,
+        "accounts": {
+            "ACCA386577A68504A0CBC4DC5AA015B15F7": {
+                "phone": "9953289594",
+                "account_id": "ACCA386577A68504A0CBC4DC5AA015B15F7",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODM5NjQsImlhdCI6MTc4NDg4MjE2NCwiaXNzIjoia2V2bGFyIiwianRpIjoiNTA5OTJjMGUtNmQyOS00YjRjLWFiYWMtODY5YmViMTFkNTAzIiwidHlwZSI6IkFUIiwiZElkIjoiNDNlZjI4ZTkwMWIzNGI2MGIwNGJjNWRkOTgwNjYxN2IiLCJiSWQiOiJMVFpZWjciLCJrZXZJZCI6IlZJMDBCNkFDOUU5OUEzNDEyREFCRjFDQkM5REMyNTg0NDkiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkgyRnNPaVljM3BuaE4yZl9seVNqTG9aUmZDamZCaHRDUDgybFhKRTc1LXRCN0JHMFhqNVFrQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.Z7LCecwq1JTKmDmj1N75SFQA6hE7VXt3Bw2VaYs7q7w",
+                    "sn": "VI00B6AC9E99A3412DABF1CBC9DC258449.TOKEC3FCC3E2CD74EFBB7AFA94A33622C43.0.LI",
+                    "vid": "VI00B6AC9E99A3412DABF1CBC9DC258449",
+                    "secure_token": "VI00B6AC9E99A3412DABF1CBC9DC258449:VI00B6AC9E99A3412DABF1CBC9DC258449",
+                    "secure_cookie": "d1t19P1Y/Yj8pPz8/XSg/Pz8/c77yNgejKsz013VVuxPAuYrA+KH9D7rNEyP4euyZa56m5q59SdKMfcntLaRQvtLXzA==",
+                    "account_id": "ACCA386577A68504A0CBC4DC5AA015B15F7",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "43ef28e901b34b60b04bc5dd9806617b",
+                    "visit_id": "95c1382e0a814df1b17b387f32011bcc-1784882150596",
+                    "added_at": "2026-07-24T14:06:04.574875"
+                },
+                "device": {
+                    "brand": "OPPO",
+                    "model": "Reno 8 Pro",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.C1",
+                    "app_version": "2291177"
+                }
+            }
+        }
+    },
+    "6164128435": {
+        "points": 3
+    },
+    "7007475122": {
+        "points": 3
+    },
+    "5578102792": {
+        "points": 3
+    },
+    "5496143697": {
+        "points": 3
+    },
+    "5510869890": {
+        "points": 3
+    },
+    "8474129689": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "6036802548": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L": {
+                "phone": "9625779088",
+                "account_id": "ACC38A36A212EFB4316A5F7EE51A30586D7L",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MDkxNzIsImlhdCI6MTc4NDgwNzM3MiwiaXNzIjoia2V2bGFyIiwianRpIjoiZjE3YjdjMGItYTRjMC00NmM2LWJiMWQtYmM3MmQ2NjEzZDNhIiwidHlwZSI6IkFUIiwiZElkIjoiZmI4NTJhNTEwMTA5NDMwYWE4NDA5ZWViMDQ4ODY2NTQiLCJiSWQiOiI1UERQQlIiLCJrZXZJZCI6IlZJOTQ5Mjg5NTkxNjE0NDE0RjhEODJGNEQ5MDlCNDY0ODAiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IlRZVHJfM1diV3hKdmNwVnZZSG80cHpodU1LREI4bVc1TXpYdm1jVkp5b0VQQzJBN1o4T0l2Zz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.jKPe3z_FiL5QbPhjlxYmbikrca63-9JkGxEUDQQ3ZJ4",
+                    "sn": "VI949289591614414F8D82F4D909B46480.TOKB858BC294EAA4F9784621891AA9FFFD9.0.LI",
+                    "vid": "VI949289591614414F8D82F4D909B46480",
+                    "secure_token": "VI949289591614414F8D82F4D909B46480:VI949289591614414F8D82F4D909B46480",
+                    "secure_cookie": "d1t15PzFMGD8tP2kgPD9rSAM/PyjiXdMj/TWCZVItIcnaLBrPedvV5OyKKv8m9HmtZHTEpgibFtyuaAka3kFmLtDAHw==",
+                    "account_id": "ACC38A36A212EFB4316A5F7EE51A30586D7L",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "fb852a510109430aa8409eeb04886654",
+                    "visit_id": "0a9cf458e54b4c0981a9a6ac9244cecd-1784807354941",
+                    "added_at": "2026-07-23T17:19:32.721130"
+                },
+                "device": {
+                    "brand": "Google",
+                    "model": "Pixel 4 XL",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.D1",
+                    "app_version": "2291176"
+                }
+            }
+        },
+        "task_history": {
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Super Runner": {
+                "completed_at": "2026-07-23T17:20:00.556148",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_City Builder": {
+                "completed_at": "2026-07-23T17:20:03.567463",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Fruit Crush": {
+                "completed_at": "2026-07-23T17:20:06.160615",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Grocery Match": {
+                "completed_at": "2026-07-23T17:20:09.022484",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Ludo": {
+                "completed_at": "2026-07-23T17:20:11.664313",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Nazar Pop": {
+                "completed_at": "2026-07-23T17:20:14.538401",
+                "earned_coins": 4
+            },
+            "ACC38A36A212EFB4316A5F7EE51A30586D7L_Gullak": {
+                "completed_at": "2026-07-23T17:20:15.978961",
+                "earned_coins": 0
+            }
+        }
+    },
+    "1048769954": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACC5FFD31520EDD42AFAF829654E47A84805": {
+                "phone": "6361638776",
+                "account_id": "ACC5FFD31520EDD42AFAF829654E47A84805",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MDk3MzAsImlhdCI6MTc4NDgwNzkzMCwiaXNzIjoia2V2bGFyIiwianRpIjoiOWY1NGRiYzYtN2FkZi00ZDg2LWE4ODgtZDZjMzdlZDZmNjVhIiwidHlwZSI6IkFUIiwiZElkIjoiMmNkYzhlNjcyZDc4NGEyZjgyNDQzMmYwNjA3MjE1MWMiLCJiSWQiOiJFQkpHSzciLCJrZXZJZCI6IlZJMzk2NjAxOUU1MTY1NDFEQzlGODA1MzQ2NEJCN0ZGMTEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ii1nTGZ5OS14dDlhX2V5V1J5ekJvTC1DbVFvaGhXQ2dhbTg4VmFhTWkyakdvV0FFeGVlNGtGUT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.I1HHMs_3n2alnNOjMJezuLYqQKGf1K1D-__qLFEArWk",
+                    "sn": "VI3966019E516541DC9F8053464BB7FF11.TOK719AEEB8585144B986643D6A08EC78C9.0.LI",
+                    "vid": "VI3966019E516541DC9F8053464BB7FF11",
+                    "secure_token": "VI3966019E516541DC9F8053464BB7FF11:VI3966019E516541DC9F8053464BB7FF11",
+                    "secure_cookie": "d1t13PyhUPz8/Pz8/aj8/P18/VOnPluf1svoX/Pf5SH6J/dhI6F6vS1mRKZEqzypIiS5eb1HmJS4vqMpyhl/rrsJaQQ==",
+                    "account_id": "ACC5FFD31520EDD42AFAF829654E47A84805",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "2cdc8e672d784a2f824432f06072151c",
+                    "visit_id": "56ce095a6b884be19e89da5115fff735-1784807921009",
+                    "added_at": "2026-07-23T17:28:50.582198"
+                },
+                "device": {
+                    "brand": "Vivo",
+                    "model": "Y100",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "task_history": {
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Super Runner": {
+                "completed_at": "2026-07-23T17:29:25.957425",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_City Builder": {
+                "completed_at": "2026-07-23T17:29:28.912016",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Fruit Crush": {
+                "completed_at": "2026-07-23T17:29:32.299559",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Grocery Match": {
+                "completed_at": "2026-07-23T17:29:35.348679",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Ludo": {
+                "completed_at": "2026-07-23T17:29:38.268776",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Nazar Pop": {
+                "completed_at": "2026-07-23T17:29:41.448478",
+                "earned_coins": 1
+            },
+            "ACC5FFD31520EDD42AFAF829654E47A84805_Gullak": {
+                "completed_at": "2026-07-23T17:29:42.860086",
+                "earned_coins": 0
+            }
+        }
+    },
+    "1166012914": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "8739344756": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "2138631381": {
+        "points": 3
+    },
+    "1815023377": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "6739244106": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC37CADECD02E14C69836BD072B49706ACJ": {
+                "phone": "7903944649",
+                "account_id": "ACC37CADECD02E14C69836BD072B49706ACJ",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTA3NTksImlhdCI6MTc4NDgwODk1OSwiaXNzIjoia2V2bGFyIiwianRpIjoiOTk5NTNhZTQtNTJlYy00NGEzLWFmY2QtNzJhMDg0YzZkNWI2IiwidHlwZSI6IkFUIiwiZElkIjoiNThjOTBkZDc4ZWYxNGU5YTlhMzI3NTM4ZTRkOTNiYzUiLCJiSWQiOiJPTEo0SkEiLCJrZXZJZCI6IlZJMTRENDdEMTk0NzFBNDk4QUI5RDYyODg1NjAwRUFGMzIiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjNmWVpoWlU5cTQ4dHZXVVZtZEt0ZVJPaGRJYmRJOFVuVDg4RFQwbm1NODRmTDFtelU2SmFUUT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.J3sSiQlrmKD40z32KV1gBxl1e8W9-TpacpUWiUVKnus",
+                    "sn": "VI14D47D19471A498AB9D62885600EAF32.TOKFEB23497057449E0960AE16E524564FA.0.LI",
+                    "vid": "VI14D47D19471A498AB9D62885600EAF32",
+                    "secure_token": "VI14D47D19471A498AB9D62885600EAF32:VI14D47D19471A498AB9D62885600EAF32",
+                    "secure_cookie": "d1t18P1A/VGk4Pzg/PzpyHUM/PxRRTJZCV7T+SEhaDr5VCxVOQt0kTdk2kXzoOI2nO2aAPkL+wJ40Zxf7Xbfgjd6B7A==",
+                    "account_id": "ACC37CADECD02E14C69836BD072B49706ACJ",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "58c90dd78ef14e9a9a327538e4d93bc5",
+                    "visit_id": "7446b44d6ad64344aa608b000d659e20-1784808952864",
+                    "added_at": "2026-07-23T17:45:59.892812"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "Realme 9 Pro",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.D1",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Super Runner": {
+                "completed_at": "2026-07-23T17:46:18.560801",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_City Builder": {
+                "completed_at": "2026-07-23T17:46:21.355598",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Fruit Crush": {
+                "completed_at": "2026-07-23T17:46:24.320360",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Grocery Match": {
+                "completed_at": "2026-07-23T17:46:27.295687",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Ludo": {
+                "completed_at": "2026-07-23T17:46:30.159287",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Nazar Pop": {
+                "completed_at": "2026-07-23T17:46:32.922769",
+                "earned_coins": 1
+            },
+            "ACC37CADECD02E14C69836BD072B49706ACJ_Gullak": {
+                "completed_at": "2026-07-23T17:46:34.414823",
+                "earned_coins": 0
+            }
+        }
+    },
+    "5839989694": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "8488147633": {
+        "points": 3
+    },
+    "8585430465": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH": {
+                "phone": "7208627114",
+                "account_id": "ACC0DF207AF050845C69FA1AC091FD3DD9CH",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTE4MDAsImlhdCI6MTc4NDgxMDAwMCwiaXNzIjoia2V2bGFyIiwianRpIjoiMzg1MGI1ZjItNjZmNS00NTAyLTllMjctOTExYmMzM2EzZWJjIiwidHlwZSI6IkFUIiwiZElkIjoiNDAwZTZmZmZhMjg4NGNmZGE1MWMyMWY2MjI3MzZmZGIiLCJiSWQiOiJaVjdON1ciLCJrZXZJZCI6IlZJRkFENTdBMjE3OURCNEY3N0ExMkIzRjlCN0E5MjE4OEMiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkltOUtSc1dlbjM0TFI1Z2J1ZGZEQWRCUEtqZFl2WlF5UkFKWXFsYnRJUVcydVJna3JhOE5XZz09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.nNl6geUwU0VO4nG4kIX9D9HIwa3zmluZGOjKqEhEeHc",
+                    "sn": "VIFAD57A2179DB4F77A12B3F9B7A92188C.TOKA714AA23DEA94C459D3A823B55DE1B29.0.LI",
+                    "vid": "VIFAD57A2179DB4F77A12B3F9B7A92188C",
+                    "secure_token": "VIFAD57A2179DB4F77A12B3F9B7A92188C:VIFAD57A2179DB4F77A12B3F9B7A92188C",
+                    "secure_cookie": "d1t11PwU/PwA/RD9eP3k/Pz8/Uf1Jv25wD+YYNP9m4+0SAvOE40xt3OM8kSm/GrzO3geqCQFTSaAwG5Qa1rNi0PS2Xg==",
+                    "account_id": "ACC0DF207AF050845C69FA1AC091FD3DD9CH",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "400e6fffa2884cfda51c21f622736fdb",
+                    "visit_id": "bdd7e36973ee4147a231d29a1be8860e-1784809887148",
+                    "added_at": "2026-07-23T18:03:21.377474"
+                },
+                "device": {
+                    "brand": "Sony",
+                    "model": "Xperia 5 V",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.B1",
+                    "app_version": "2291176"
+                }
+            }
+        },
+        "task_history": {
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Super Runner": {
+                "completed_at": "2026-07-23T18:03:30.185040",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_City Builder": {
+                "completed_at": "2026-07-23T18:03:31.848180",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Fruit Crush": {
+                "completed_at": "2026-07-23T18:03:33.360984",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Grocery Match": {
+                "completed_at": "2026-07-23T18:03:34.843048",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Ludo": {
+                "completed_at": "2026-07-23T18:03:36.246847",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Nazar Pop": {
+                "completed_at": "2026-07-23T18:03:37.743626",
+                "earned_coins": 0
+            },
+            "ACC0DF207AF050845C69FA1AC091FD3DD9CH_Gullak": {
+                "completed_at": "2026-07-23T18:03:39.378046",
+                "earned_coins": 0
+            }
+        }
+    },
+    "7162423997": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC": {
+                "phone": "8058614350",
+                "account_id": "ACC0B86B7C4CB534597A14F11A521BD4BAC",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4MTE2ODYsImlhdCI6MTc4NDgwOTg4NiwiaXNzIjoia2V2bGFyIiwianRpIjoiNzRlZjZkYzctYmY1Mi00ZjJjLWE5N2MtNzhkN2YxZDM5YjdhIiwidHlwZSI6IkFUIiwiZElkIjoiNTI0OGRmNTEyYWFmNDc2ODkwYmE0Zjc4YjU4YTJjNDIiLCJiSWQiOiJWUFc5SFciLCJrZXZJZCI6IlZJMjE3QTQ3NzBDRkY0NEYyNTk2RTJCMjk3OEJCOTY0OEIiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6InNVTEM1Z2tjOTFmMWVScmVmQkdKdk5wMi1aXzhuYW1KdmFWRGphZzlaMFZjcUIwSzBjeTJBQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.ThUziYTLuJx11E4TmB7CaQym-QIjgqmb9zwBv6B7C_U",
+                    "sn": "VI217A4770CFF44F2596E2B2978BB9648B.TOKEC29544BE25245BDBD3FA926BA8BAC2D.0.LI",
+                    "vid": "VI217A4770CFF44F2596E2B2978BB9648B",
+                    "secure_token": "VI217A4770CFF44F2596E2B2978BB9648B:VI217A4770CFF44F2596E2B2978BB9648B",
+                    "secure_cookie": "d1t18Pz8/fT8gFj8/dmM/aGoXPbuv83GZ0JmHTV0xpLz1+PHSU1VZbqS+p9Ssk2n1Ntvi88+vxpDAIMQ/I2PZaxL8CQ==",
+                    "account_id": "ACC0B86B7C4CB534597A14F11A521BD4BAC",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "5248df512aaf476890ba4f78b58a2c42",
+                    "visit_id": "7788c447dbda4490b3ef49e98fd4df59-1784809870575",
+                    "added_at": "2026-07-23T18:01:26.638245"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-X900",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.A1",
+                    "app_version": "2291175"
+                }
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763": {
+                "phone": "9166868227",
+                "account_id": "ACCAF8F871A2D58467DBB43CCD5451C4763",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4MTE4MTUsImlhdCI6MTc4NDgxMDAxNSwiaXNzIjoia2V2bGFyIiwianRpIjoiYzAyZTM3YTgtY2FiYi00M2EzLWIyNWUtZDU3NDhlMTY2ODI0IiwidHlwZSI6IkFUIiwiZElkIjoiZjBmN2NlYWVjMDQ0NDUwNDhkN2FjMDUwN2M2MDg0OTUiLCJiSWQiOiJLT1ZLSVgiLCJrZXZJZCI6IlZJM0JCRTRBNTIzNzIxNDIzMEIwQTU4NkE1NjVGQ0ExODMiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Iks5VU5nSExnQU1qSFF3MFg4UVY1VWVLU0hUVE9xTUFYVm5OaHFvNDRRZGdjY2piczJORk95QT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.-2iD5ZHQ4lLG_ukvGIywrfv6JjjUokA8UA8huQY5aJU",
+                    "sn": "VI3BBE4A5237214230B0A586A565FCA183.TOK1ECD6F67FAFE48D9843009DA43EAEA76.0.LI",
+                    "vid": "VI3BBE4A5237214230B0A586A565FCA183",
+                    "secure_token": "VI3BBE4A5237214230B0A586A565FCA183:VI3BBE4A5237214230B0A586A565FCA183",
+                    "secure_cookie": "d1t12Yz9YUD98JT9EPzJRP0w/P30L0wWgKJVlyoTbujBoQJRgtaZ7grkVLDSDrBGtQleq9b0tKha87cBz5EHU6nDz7Q==",
+                    "account_id": "ACCAF8F871A2D58467DBB43CCD5451C4763",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "f0f7ceaec04445048d7ac0507c608495",
+                    "visit_id": "afd139c8cd7246ffb4163d1ac93fa325-1784810006374",
+                    "added_at": "2026-07-23T18:03:35.691728"
+                },
+                "device": {
+                    "brand": "Xiaomi",
+                    "model": "Redmi Note 12 Pro",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.D1",
+                    "app_version": "2291178"
+                }
+            }
+        },
+        "task_history": {
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Super Runner": {
+                "completed_at": "2026-07-24T09:30:09.351918",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_City Builder": {
+                "completed_at": "2026-07-24T09:30:10.714962",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Fruit Crush": {
+                "completed_at": "2026-07-24T09:30:12.103947",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Grocery Match": {
+                "completed_at": "2026-07-24T09:30:13.551165",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Ludo": {
+                "completed_at": "2026-07-24T09:30:15.228751",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Nazar Pop": {
+                "completed_at": "2026-07-24T09:30:16.817202",
+                "earned_coins": 0
+            },
+            "ACC0B86B7C4CB534597A14F11A521BD4BAC_Gullak": {
+                "completed_at": "2026-07-24T09:30:18.916488",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Super Runner": {
+                "completed_at": "2026-07-24T12:35:06.279299",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_City Builder": {
+                "completed_at": "2026-07-24T12:35:07.716448",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Fruit Crush": {
+                "completed_at": "2026-07-24T12:35:09.159763",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Grocery Match": {
+                "completed_at": "2026-07-24T12:35:10.673688",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Ludo": {
+                "completed_at": "2026-07-24T12:35:12.387740",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Nazar Pop": {
+                "completed_at": "2026-07-24T12:35:13.945714",
+                "earned_coins": 0
+            },
+            "ACCAF8F871A2D58467DBB43CCD5451C4763_Gullak": {
+                "completed_at": "2026-07-24T12:35:15.660358",
+                "earned_coins": 0
+            }
+        }
+    },
+    "1231387986": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "547658573": {
+        "points": 3
+    },
+    "7873102111": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "7969851056": {
+        "points": 3
+    },
+    "1235604949": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "6997046533": {
+        "points": 3
+    },
+    "1904664211": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACC6C8617A7B35942B38E42255B829C32FF": {
+                "phone": "7073065316",
+                "account_id": "ACC6C8617A7B35942B38E42255B829C32FF",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4MTI5NjAsImlhdCI6MTc4NDgxMTE2MCwiaXNzIjoia2V2bGFyIiwianRpIjoiNjg0MDFhZTktZjBlNi00ODM3LTk1MzQtZWE2ZjM0NzJlMjA4IiwidHlwZSI6IkFUIiwiZElkIjoiN2U5NTUzNzRiMWEyNGY2MTllZWI2Y2VjY2I1NDZlYzYiLCJiSWQiOiJUVVNRM0EiLCJrZXZJZCI6IlZJQjgwRjBERDBBRjVGNEQ4M0FGM0JCQUI2MEZCM0UwNjciLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IlljM2RfMVdkajBfQkk5aDVvdmlYZ196MlQ0Yml6R2VhUk9kQjRCYnFJN1JHWjUtdlhfVG5BUT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.b7bd0XG-nQpq33K5jonGKcOQJoLri1EqOO86ToRLAto",
+                    "sn": "VIB80F0DD0AF5F4D83AF3BBAB60FB3E067.TOK1E6A2D93EC1841E29FB99381332C9AFE.0.LI",
+                    "vid": "VIB80F0DD0AF5F4D83AF3BBAB60FB3E067",
+                    "secure_token": "VIB80F0DD0AF5F4D83AF3BBAB60FB3E067:VIB80F0DD0AF5F4D83AF3BBAB60FB3E067",
+                    "secure_cookie": "d1t17Pw8/Pz8kPyN7Fjg/P30/Puegrc7Fizmih92lxiBxA1+KX8TgHaNRv3BpMuUM5IWF5RcADv52eDfkEuqBzt3XFA==",
+                    "account_id": "ACC6C8617A7B35942B38E42255B829C32FF",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "7e955374b1a24f619eeb6ceccb546ec6",
+                    "visit_id": "ddf6f8a03f694734b4e3b7e35f9050f7-1784811150245",
+                    "added_at": "2026-07-23T18:22:40.740136"
+                },
+                "device": {
+                    "brand": "Google",
+                    "model": "Pixel 7",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014",
+                    "app_version": "2291175"
+                }
+            }
+        }
+    },
+    "8921499148": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H": {
+                "phone": "7678543032",
+                "account_id": "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODE3ODUsImlhdCI6MTc4NDg3OTk4NSwiaXNzIjoia2V2bGFyIiwianRpIjoiMjFlYjJkMTYtZjVjOC00ZjU0LWI1NjUtNTRhNDQ5M2U4MWNkIiwidHlwZSI6IkFUIiwiZElkIjoiNzg4ZDkwMGI4NGJkNDZkY2IzOTAyYmQwNzhmZDFlNTIiLCJiSWQiOiI2MVJJUEUiLCJrZXZJZCI6IlZJNEVDNEI3RDhGODFCNDI0Njg0QTE2NDdDNkFBQUUyOEEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IldMZldMaHV2MzhqRHQySjBoZ2w1eU95TXc5NjNlR0JHd1o1UjlnbHZIMXNNQzE4ZHpEUmdrdz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.ZA9jK60DQn8d8W4rS8ZYIo_KJi9wUdAAa4Mx4Iy_3xk",
+                    "sn": "VI4EC4B7D8F81B424684A1647C6AAAE28A.TOK470200D085304DCD8822FB3AB9F933E1.0.LI",
+                    "vid": "VI4EC4B7D8F81B424684A1647C6AAAE28A",
+                    "secure_token": "VI4EC4B7D8F81B424684A1647C6AAAE28A:VI4EC4B7D8F81B424684A1647C6AAAE28A",
+                    "secure_cookie": "d1t15Vj9sPz8/IT8/Pz8/Pz8/P+rrp2h+C/O42ymFkJ47EpyzPyNjHNbZDu9LBc66jJC1DwjvywwRQUx9Fxv8xw4V/A==",
+                    "account_id": "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "788d900b84bd46dcb3902bd078fd1e52",
+                    "visit_id": "6051aeb9419148e08d92528c801c57ff-1784879971020",
+                    "added_at": "2026-07-24T13:29:46.439523"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "Realme 8 Pro",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "task_history": {
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Super Runner": {
+                "completed_at": "2026-07-24T13:31:06.038992",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_City Builder": {
+                "completed_at": "2026-07-24T13:31:07.680722",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Fruit Crush": {
+                "completed_at": "2026-07-24T13:31:09.203180",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Grocery Match": {
+                "completed_at": "2026-07-24T13:31:11.037666",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Ludo": {
+                "completed_at": "2026-07-24T13:31:13.546329",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Nazar Pop": {
+                "completed_at": "2026-07-24T13:31:15.237879",
+                "earned_coins": 0
+            },
+            "ACC046DB2B74B1B4C909CC3B66FD8D7EB01H_Gullak": {
+                "completed_at": "2026-07-24T13:31:18.014014",
+                "earned_coins": 0
+            }
+        }
+    },
+    "8084694525": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACCEB8BA7105D514BEF984992609AD3F200": {
+                "phone": "7872022364",
+                "account_id": "ACCEB8BA7105D514BEF984992609AD3F200",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4NzUwMjIsImlhdCI6MTc4NDg3MzIyMiwiaXNzIjoia2V2bGFyIiwianRpIjoiOTQ0MzUzYTAtNDA5NC00NDI4LTk3YzQtODI4NzYxN2U3ZTM0IiwidHlwZSI6IkFUIiwiZElkIjoiMzA4NTRmNGFmMmJiNDE2ZWFiODUzYTAyNmE1MmI4NWYiLCJiSWQiOiJFNTFUT1UiLCJrZXZJZCI6IlZJNTMxOTg2MEJERjUxNEVCM0FFQTcxRjcwREJGQUIwQzQiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkVIVGZLYlFYUzV2Wjh2a3hzLXhuWEFuSEVlLXVrX2JTQ09PMzhjNlRJNmRMdEpXMjlLSUg2UT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.hop44ZZPaS3Pm6HrfHXrcUeoOrC0b18DpZMfMziHu9Q",
+                    "sn": "VI5319860BDF514EB3AEA71F70DBFAB0C4.TOKBE7C70BD1B88421A8D3CECE00507433B.0.LI",
+                    "vid": "VI5319860BDF514EB3AEA71F70DBFAB0C4",
+                    "secure_token": "VI5319860BDF514EB3AEA71F70DBFAB0C4:VI5319860BDF514EB3AEA71F70DBFAB0C4",
+                    "secure_cookie": "d1t11Wz8+P3I/Pz8/Jz8LRTU/P6Oo9t6WNFfpzGf06W6QY4s5GFy1OZUIU8wkXpWO1IUGpONwr4Upzrulf37tQe6tHA==",
+                    "account_id": "ACCEB8BA7105D514BEF984992609AD3F200",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "30854f4af2bb416eab853a026a52b85f",
+                    "visit_id": "168de4024fdb4837bc7dae342a3cae21-1784873205619",
+                    "added_at": "2026-07-24T11:37:03.321051"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-X800",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.B1",
+                    "app_version": "2291175"
+                }
+            }
+        },
+        "task_history": {
+            "ACCEB8BA7105D514BEF984992609AD3F200_Super Runner": {
+                "completed_at": "2026-07-24T11:38:07.041270",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_City Builder": {
+                "completed_at": "2026-07-24T11:38:08.604885",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_Fruit Crush": {
+                "completed_at": "2026-07-24T11:38:10.264781",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_Grocery Match": {
+                "completed_at": "2026-07-24T11:38:11.695484",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_Ludo": {
+                "completed_at": "2026-07-24T11:38:13.052800",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_Nazar Pop": {
+                "completed_at": "2026-07-24T11:38:14.654525",
+                "earned_coins": 0
+            },
+            "ACCEB8BA7105D514BEF984992609AD3F200_Gullak": {
+                "completed_at": "2026-07-24T11:38:16.881693",
+                "earned_coins": 0
+            }
+        }
+    },
+    "5822292497": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "823672701": {
+        "points": 3
+    },
+    "6096117527": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "task_history": {
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Super Runner": {
+                "completed_at": "2026-07-23T18:46:23.678174",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_City Builder": {
+                "completed_at": "2026-07-23T18:46:26.776368",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Fruit Crush": {
+                "completed_at": "2026-07-23T18:46:30.451206",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Grocery Match": {
+                "completed_at": "2026-07-23T18:46:34.822407",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Ludo": {
+                "completed_at": "2026-07-23T18:46:37.314664",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Nazar Pop": {
+                "completed_at": "2026-07-23T18:46:40.086854",
+                "earned_coins": 1
+            },
+            "ACC5E89A74AFE5B4745944459AA1EEC14CA_Gullak": {
+                "completed_at": "2026-07-23T18:46:41.934069",
+                "earned_coins": 0
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Super Runner": {
+                "completed_at": "2026-07-24T10:54:07.804882",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_City Builder": {
+                "completed_at": "2026-07-24T10:54:10.383054",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Fruit Crush": {
+                "completed_at": "2026-07-24T10:54:13.100355",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Grocery Match": {
+                "completed_at": "2026-07-24T10:54:15.724833",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Ludo": {
+                "completed_at": "2026-07-24T10:54:18.644923",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Nazar Pop": {
+                "completed_at": "2026-07-24T10:54:21.507216",
+                "earned_coins": 1
+            },
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C_Gullak": {
+                "completed_at": "2026-07-24T10:54:23.018144",
+                "earned_coins": 0
+            }
+        },
+        "accounts": {
+            "ACC028C97201C5E4C9EA54BFCA076B2E42C": {
+                "phone": "9352488096",
+                "account_id": "ACC028C97201C5E4C9EA54BFCA076B2E42C",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4NzI0MzcsImlhdCI6MTc4NDg3MDYzNywiaXNzIjoia2V2bGFyIiwianRpIjoiYWZiMTY4OGEtM2M5Ni00MTk4LTk5ZTYtMDU0MjMzYWY3NDBlIiwidHlwZSI6IkFUIiwiZElkIjoiYjFjYzQ5NmJhZjg0NDU0OTkwZTk4ZTUwOGQwNGE3ZmIiLCJiSWQiOiJSMUJYRFQiLCJrZXZJZCI6IlZJMjAxMzVENEI4MjZENDY3QjhCQkM4QTFDNjIyOTFFNTkiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjJNUnhDX0dReGM2dnNQMUtjQlVTRjZWRklzWWdaYmsxcF9ydTRIc0NQWXB3Wkt0ZUsxcGR0Zz09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.OXmXPV8rlVxsfI3w1RP4C2u7ThazaADwmKPPFLSqgqM",
+                    "sn": "VI20135D4B826D467B8BBC8A1C62291E59.TOK953BD63B72BD438285D7D10BD4925611.0.LI",
+                    "vid": "VI20135D4B826D467B8BBC8A1C62291E59",
+                    "secure_token": "VI20135D4B826D467B8BBC8A1C62291E59:VI20135D4B826D467B8BBC8A1C62291E59",
+                    "secure_cookie": "d1t11Pz8/Pz93XT8qPxJ0Pw50QMzMyRry5yYD2/NmXKqy2sBIMSKADSEkBUpPmloh9clwHFYd4npKxSeTUI6ZcbU+QA==",
+                    "account_id": "ACC028C97201C5E4C9EA54BFCA076B2E42C",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "b1cc496baf84454990e98e508d04a7fb",
+                    "visit_id": "8fe7f1e96ea64125afe84088ace251bb-1784870622485",
+                    "added_at": "2026-07-24T10:53:58.191767"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "GT Neo 5",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016",
+                    "app_version": "2291177"
+                }
+            }
+        }
+    },
+    "7786647306": {
+        "points": 5,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "8564089211": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X": {
+                "phone": "6394293109",
+                "account_id": "ACC13A3CC35CD5D4A1A983D560E319D2A83X",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTQzMjgsImlhdCI6MTc4NDgxMjUyOCwiaXNzIjoia2V2bGFyIiwianRpIjoiZDg0M2M4OTEtNTIyOS00ZTcyLWI4OTUtNTkxODE5MjQwYTA3IiwidHlwZSI6IkFUIiwiZElkIjoiYTBlNmViOGNiYmZkNGEyYTg2NmE1ZjAyNTYzYzIyZDAiLCJiSWQiOiJYRVNISU0iLCJrZXZJZCI6IlZJQzY2QjVEQTBBNzhFNDQ3REI1NDY1NkU5RTlFNjkzMTgiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ikc1ZHNwRUQ1bHNmajFsSVYtZGI4cXI2c0RSUnJjS2hqR0xfbVpUNnU1eWJVU01OaWRMejJHdz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.B-ZU_k1rTsyotIkhRhtwBT-7xqgbWyw3EZLY1IOEcX4",
+                    "sn": "VIC66B5DA0A78E447DB54656E9E9E69318.TOK129627C83B434EE297656C986CD94582.0.LI",
+                    "vid": "VIC66B5DA0A78E447DB54656E9E9E69318",
+                    "secure_token": "VIC66B5DA0A78E447DB54656E9E9E69318:VIC66B5DA0A78E447DB54656E9E9E69318",
+                    "secure_cookie": "d1t13Pw8dPz8/P117SRVnP0Q/W8cJ2fqegTJHHRgsDm8dt7+lE8eSjmWFIhZZA27mSmPkevMGI1yh0ooGh9mM951WXA==",
+                    "account_id": "ACC13A3CC35CD5D4A1A983D560E319D2A83X",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "a0e6eb8cbbfd4a2a866a5f02563c22d0",
+                    "visit_id": "124c4ff4aa214a8ba5dfc56ba3aa6349-1784812493530",
+                    "added_at": "2026-07-23T18:45:29.252050"
+                },
+                "device": {
+                    "brand": "Sony",
+                    "model": "Xperia 1 V",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.D1",
+                    "app_version": "2291176"
+                }
+            }
+        },
+        "task_history": {
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Super Runner": {
+                "completed_at": "2026-07-23T18:49:57.718822",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_City Builder": {
+                "completed_at": "2026-07-23T18:49:59.079008",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Fruit Crush": {
+                "completed_at": "2026-07-23T18:50:00.655636",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Grocery Match": {
+                "completed_at": "2026-07-23T18:50:02.135997",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Ludo": {
+                "completed_at": "2026-07-23T18:50:03.467094",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Nazar Pop": {
+                "completed_at": "2026-07-23T18:50:05.592662",
+                "earned_coins": 0
+            },
+            "ACC13A3CC35CD5D4A1A983D560E319D2A83X_Gullak": {
+                "completed_at": "2026-07-23T18:50:08.355463",
+                "earned_coins": 0
+            }
+        }
+    },
+    "5613032812": {
+        "points": 4,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q": {
+                "phone": "9508791740",
+                "account_id": "ACC9E7AAC0315DB40D3A08DFC2867205D00Q",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4MTQ2MzAsImlhdCI6MTc4NDgxMjgzMCwiaXNzIjoia2V2bGFyIiwianRpIjoiMzNjYmNlZDUtY2Y0My00ZTFhLTgyZjYtNWU2OTAxNTA3Yzg2IiwidHlwZSI6IkFUIiwiZElkIjoiNGQwZTg2OTMxMzdmNGE2NGE1ZjEwMDZkM2RjYTkyZTciLCJiSWQiOiJCVkhXRTUiLCJrZXZJZCI6IlZJQjk4REFFQjJBOEZDNEYxNjk2OTgwRTlCQUI2RTNCOTEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkIxNXlUSFJxb1NDNFIzanFqbHRNU0Z5QlFfc3RyaVBPcENIS1B4RnBEWkNNR01aTS1uZmI2UT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.18z38eqqM8Qp4dYG-6RxVQcDjk0vwsfRwu1VXBurTew",
+                    "sn": "VIB98DAEB2A8FC4F1696980E9BAB6E3B91.TOKDCC2775EF38743C8A2E947325295CA39.0.LI",
+                    "vid": "VIB98DAEB2A8FC4F1696980E9BAB6E3B91",
+                    "secure_token": "VIB98DAEB2A8FC4F1696980E9BAB6E3B91:VIB98DAEB2A8FC4F1696980E9BAB6E3B91",
+                    "secure_cookie": "d1t16F2U/KgUBGgg/Ij9XP24tPwn7WvR9ae5L4NiWNouaQ4tstnQugWrsGUYoeO3g91+GyTxsYJy0Pwzq2fapqHjIiQ==",
+                    "account_id": "ACC9E7AAC0315DB40D3A08DFC2867205D00Q",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "4d0e8693137f4a64a5f1006d3dca92e7",
+                    "visit_id": "35a138782cc34f799e222178394c9231-1784812806143",
+                    "added_at": "2026-07-23T18:50:30.915373"
+                },
+                "device": {
+                    "brand": "Vivo",
+                    "model": "X90 Pro",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Super Runner": {
+                "completed_at": "2026-07-24T14:14:48.954346",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_City Builder": {
+                "completed_at": "2026-07-24T14:14:51.698178",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Fruit Crush": {
+                "completed_at": "2026-07-24T14:14:54.415427",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Grocery Match": {
+                "completed_at": "2026-07-24T14:14:57.156740",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Ludo": {
+                "completed_at": "2026-07-24T14:14:59.960016",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Nazar Pop": {
+                "completed_at": "2026-07-24T14:15:03.102241",
+                "earned_coins": 1
+            },
+            "ACC9E7AAC0315DB40D3A08DFC2867205D00Q_Gullak": {
+                "completed_at": "2026-07-24T14:15:04.564027",
+                "earned_coins": 0
+            }
+        }
+    },
+    "863138083": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-23T18:50:13.077848",
+        "joined_programs": [
+            "airdrop"
+        ],
+        "points": 3,
+        "accounts": {
+            "ACC72834737B351487DA54E23D280BE0F89": {
+                "phone": "9277491839",
+                "account_id": "ACC72834737B351487DA54E23D280BE0F89",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTUyOTQsImlhdCI6MTc4NDgxMzQ5NCwiaXNzIjoia2V2bGFyIiwianRpIjoiNWM0NmZjMmMtYmU1MS00ZWUwLWI1NTktODFhZDAxYzA3Yjk1IiwidHlwZSI6IkFUIiwiZElkIjoiNmRjN2ZiNGRiYmYxNGU4ZjgyYTAwY2I5ZTMwNDU0MjIiLCJiSWQiOiIxUzlNS1QiLCJrZXZJZCI6IlZJNDY1MUUwRTM4MDU1NEUwNDgyRDAzQUZGNjMyOUEzNDMiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjNCSE1tQldQY0cyQ005Snl1LTdUSlNiY2xLTU5Ya3d6dDN0QnFpdUJMSmpvVVJnd0Z5bUlrdz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.qPnbxAisCMVLhfqkAR1RVnI4ZaA11B9_7tNIyJFlivI",
+                    "sn": "VI4651E0E380554E0482D03AFF6329A343.TOK51DE126DB6B34595B26855107C3D00EC.0.LI",
+                    "vid": "VI4651E0E380554E0482D03AFF6329A343",
+                    "secure_token": "VI4651E0E380554E0482D03AFF6329A343:VI4651E0E380554E0482D03AFF6329A343",
+                    "secure_cookie": "d1t13FnQ/Ni4/Pys/Pz8tamQ/P9023fsrfKXdPaoCE/WSpXsWqLwSN5qdGuW9LZSsuLoRyDwaNcYjY1g3vH9/1ZqZRg==",
+                    "account_id": "ACC72834737B351487DA54E23D280BE0F89",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "6dc7fb4dbbf14e8f82a00cb9e3045422",
+                    "visit_id": "f3811fe906f14bacbae8181181687df4-1784813463067",
+                    "added_at": "2026-07-23T19:01:35.280741"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-G998B",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACC72834737B351487DA54E23D280BE0F89_Super Runner": {
+                "completed_at": "2026-07-23T19:06:19.889577",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_City Builder": {
+                "completed_at": "2026-07-23T19:06:21.476171",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_Fruit Crush": {
+                "completed_at": "2026-07-23T19:06:22.944409",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_Grocery Match": {
+                "completed_at": "2026-07-23T19:06:24.460767",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_Ludo": {
+                "completed_at": "2026-07-23T19:06:25.830962",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_Nazar Pop": {
+                "completed_at": "2026-07-23T19:06:27.351364",
+                "earned_coins": 0
+            },
+            "ACC72834737B351487DA54E23D280BE0F89_Gullak": {
+                "completed_at": "2026-07-23T19:06:29.082108",
+                "earned_coins": 0
+            }
+        }
+    },
+    "7520188638": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "accounts": {
+            "ACCD087A709E75346C5A64E854A1BF85EC3": {
+                "phone": "6290440843",
+                "account_id": "ACCD087A709E75346C5A64E854A1BF85EC3",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4MTQ2OTQsImlhdCI6MTc4NDgxMjg5NCwiaXNzIjoia2V2bGFyIiwianRpIjoiOTQ0ZTBmNDUtZDhkOC00YWQyLTg2MTEtMTdjYTUxYjYyZWJlIiwidHlwZSI6IkFUIiwiZElkIjoiZGE2M2RiNzU3ZWJkNDhiYjhiMGI2YjQzZDNkNDdlZWQiLCJiSWQiOiI3UENGTUIiLCJrZXZJZCI6IlZJRkJEODQ1NjI3RDJGNDVEMkEwRTZCQjI0NUY0OUVBM0QiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkdIMVl4ZjVvUW9Zc1Z4X2ZwbzZ0UlJJR3BXazNUdUFsanJ0MEItYjBaclk4Skc3UVNLS2NXUT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.JFS1FW2m7WlHs07-_Noadtc3vnVK7tTb3tnXwp2aIBk",
+                    "sn": "VIFBD845627D2F45D2A0E6BB245F49EA3D.TOK7F2CECCBBD17489B864AA7FA4B3EA7C2.0.LI",
+                    "vid": "VIFBD845627D2F45D2A0E6BB245F49EA3D",
+                    "secure_token": "VIFBD845627D2F45D2A0E6BB245F49EA3D:VIFBD845627D2F45D2A0E6BB245F49EA3D",
+                    "secure_cookie": "d1t16P14/cQo/P2QXPz9lPwg/P2YPnG+BxSxiRhawxIAn3ZjIw6rHWR8HUuxPnsavAGl1ELIyyxOvcEv5YW87Pz6l3g==",
+                    "account_id": "ACCD087A709E75346C5A64E854A1BF85EC3",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "da63db757ebd48bb8b0b6b43d3d47eed",
+                    "visit_id": "43c14319fffc4b8eb8f53eaa4bbd3054-1784812857717",
+                    "added_at": "2026-07-23T18:51:34.786347"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-X800",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.A1",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "task_history": {
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Super Runner": {
+                "completed_at": "2026-07-23T18:52:54.963547",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_City Builder": {
+                "completed_at": "2026-07-23T18:52:56.266240",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Fruit Crush": {
+                "completed_at": "2026-07-23T18:52:57.939241",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Grocery Match": {
+                "completed_at": "2026-07-23T18:52:59.294424",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Ludo": {
+                "completed_at": "2026-07-23T18:53:00.670760",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Nazar Pop": {
+                "completed_at": "2026-07-23T18:53:02.317951",
+                "earned_coins": 0
+            },
+            "ACCD087A709E75346C5A64E854A1BF85EC3_Gullak": {
+                "completed_at": "2026-07-23T18:53:04.057598",
+                "earned_coins": 0
+            }
+        }
+    },
+    "8990324513": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "7105813094": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ],
+        "task_history": {
+            "ACC88182D37970E47599199E39460F10744Z_Super Runner": {
+                "completed_at": "2026-07-23T19:51:25.781309",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_City Builder": {
+                "completed_at": "2026-07-23T19:51:27.295115",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_Fruit Crush": {
+                "completed_at": "2026-07-23T19:51:29.039646",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_Grocery Match": {
+                "completed_at": "2026-07-23T19:51:30.978294",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_Ludo": {
+                "completed_at": "2026-07-23T19:51:32.830010",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_Nazar Pop": {
+                "completed_at": "2026-07-23T19:51:34.567596",
+                "earned_coins": 0
+            },
+            "ACC88182D37970E47599199E39460F10744Z_Gullak": {
+                "completed_at": "2026-07-23T19:51:36.558088",
+                "earned_coins": 0
+            }
+        }
+    },
+    "6633656473": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop"
+        ]
+    },
+    "7446998529": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACCA989970F3F51407CA54CE073E161FEC0": {
+                "phone": "9713571359",
+                "account_id": "ACCA989970F3F51407CA54CE073E161FEC0",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4ODE2ODYsImlhdCI6MTc4NDg3OTg4NiwiaXNzIjoia2V2bGFyIiwianRpIjoiOWM2ODRlOGQtM2EzYS00MDVhLWJjZjUtZjE4YTliMjFmNTZkIiwidHlwZSI6IkFUIiwiZElkIjoiM2ZmYTY1YzBmMWU1NDM4ZDhkNTg5YjU5OWRmZmYyZDUiLCJiSWQiOiJVVjRMTFQiLCJrZXZJZCI6IlZJNzcxNzNFNEFFQThGNEI5M0E0N0QyMUNGMTAyRkQxMDIiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6ImpvdlBBaWs1cFN6MV9GNlBiX19Qc19qaGRlMXdnSTRreUY5ejU1am1GTl9KUjFid3UxYjk5dz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.uIZWeQugwyrqkluG0_r7c_WXiu1UaqESrLzYZlGr1KA",
+                    "sn": "VI77173E4AEA8F4B93A47D21CF102FD102.TOK566F7A7F40DB46FA94A992BBB9213F3C.0.LI",
+                    "vid": "VI77173E4AEA8F4B93A47D21CF102FD102",
+                    "secure_token": "VI77173E4AEA8F4B93A47D21CF102FD102:VI77173E4AEA8F4B93A47D21CF102FD102",
+                    "secure_cookie": "d1t15Pz95Q3A/P1UFPxNlPwc/JOUNu+3zzUbiqbOpkfzrjc5CSErk5dc7ELakSm5fBKjeOGLGVmtoE1hE5wa3M3nOxw==",
+                    "account_id": "ACCA989970F3F51407CA54CE073E161FEC0",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "3ffa65c0f1e5438d8d589b599dfff2d5",
+                    "visit_id": "7da1984d5d6741db936b63cd0240232e-1784879875778",
+                    "added_at": "2026-07-24T13:28:07.248437"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-X800",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.D1",
+                    "app_version": "2291176"
+                }
+            }
+        },
+        "task_history": {
+            "ACCA989970F3F51407CA54CE073E161FEC0_Super Runner": {
+                "completed_at": "2026-07-24T13:28:32.382998",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_City Builder": {
+                "completed_at": "2026-07-24T13:28:36.746208",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_Fruit Crush": {
+                "completed_at": "2026-07-24T13:28:39.650702",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_Grocery Match": {
+                "completed_at": "2026-07-24T13:28:43.586609",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_Ludo": {
+                "completed_at": "2026-07-24T13:28:46.855740",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_Nazar Pop": {
+                "completed_at": "2026-07-24T13:28:50.062923",
+                "earned_coins": 4
+            },
+            "ACCA989970F3F51407CA54CE073E161FEC0_Gullak": {
+                "completed_at": "2026-07-24T13:28:51.975277",
+                "earned_coins": 0
+            }
+        }
+    },
+    "bot_settings": {
+        "is_maintenance": false
+    },
+    "982569764": {
+        "points": 3
+    },
+    "1232235996": {
+        "points": 3,
+        "referred_by": "7162423997",
+        "referred_at": "2026-07-24T10:54:25.321447",
+        "referred_verified": true,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACCD3582D69034545C492673FC2ECCAC1C2T": {
+                "phone": "6397719667",
+                "account_id": "ACCD3582D69034545C492673FC2ECCAC1C2T",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4NzI4MTIsImlhdCI6MTc4NDg3MTAxMiwiaXNzIjoia2V2bGFyIiwianRpIjoiZWYxYjgxNzMtNDU3Ni00OWM0LWE4YTEtZTdjY2YxNWViOWYzIiwidHlwZSI6IkFUIiwiZElkIjoiNzAxZjA0ZjFlZDdkNDg0NTg2ZDVhYmVkMDg2ZGMwYjIiLCJiSWQiOiJCRVBPWlMiLCJrZXZJZCI6IlZJOTM1MzI1QUY3QjIxNDc4Njg5NDBGM0YxNzk0NDM1MzQiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkV4SkVkVVpsdGp1cjl0WnBpVHhaUEVuQ2p1WjRCWU01cFo3MDNENU1UalFnMWJ6RGVTN2ZXdz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.FGYrB3rBMJrxK0CoT5p8C-h1vJoWeFNyB7eMqqnYnqQ",
+                    "sn": "VI935325AF7B2147868940F3F179443534.TOKF59B14FAE5B04D5D871CCED6B636D1B1.0.LI",
+                    "vid": "VI935325AF7B2147868940F3F179443534",
+                    "secure_token": "VI935325AF7B2147868940F3F179443534:VI935325AF7B2147868940F3F179443534",
+                    "secure_cookie": "d1t13Pz8/cT8/WTEJPz8/P3w/P0ysXwam4vsnfz/KFmlKWINWCL0OA2OzacKKLHU7p6zWdgXQCtYPkFPUj0A2zChi9g==",
+                    "account_id": "ACCD3582D69034545C492673FC2ECCAC1C2T",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "701f04f1ed7d484586d5abed086dc0b2",
+                    "visit_id": "49244741adbe4c8bad12b92577d47d6d-1784870989004",
+                    "added_at": "2026-07-24T11:00:12.976943"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "GT 2 Pro",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.D1",
+                    "app_version": "2291179"
+                }
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER": {
+                "phone": "7668481043",
+                "account_id": "ACC62B26F4D596C4F0483469A10543DC92ER",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4NzI5NjUsImlhdCI6MTc4NDg3MTE2NSwiaXNzIjoia2V2bGFyIiwianRpIjoiNWY1ZmE4ZmYtOTI3Yy00ZGNjLWE2OGItNjMxZDIyNDI2OGQ2IiwidHlwZSI6IkFUIiwiZElkIjoiZDAzMjlkNjEzNGY1NDI3NDkzZTJmYzJjZjRhYTYzYWIiLCJiSWQiOiI5UE1VQ0QiLCJrZXZJZCI6IlZJQTFFNEZCMTlDNjU0NDZENkI5NjZCOEExNjYwQTk5NUYiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6InhLb05pWTU5MVI3M1NxblFGQzdQSlVVeEdWeWhTbTFxWVAtbVI1WlRqMTNISUZDal9BOG4tQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.9RrUqDzOT2R0sUbYVeUuMlYxRblc0KfbqmncWrM6GCI",
+                    "sn": "VIA1E4FB19C65446D6B966B8A1660A995F.TOK2ACCE261EDD44596A12134C3D7CE242E.0.LI",
+                    "vid": "VIA1E4FB19C65446D6B966B8A1660A995F",
+                    "secure_token": "VIA1E4FB19C65446D6B966B8A1660A995F:VIA1E4FB19C65446D6B966B8A1660A995F",
+                    "secure_cookie": "d1t11Pz8/Pz9vPz8/KBY/OExjGzZ840lhZe1aHnS3E8t6ZwSf1myn4Dl3sScPy/HSzl1CvQu+yGM6oYGtmtZ92lBAXg==",
+                    "account_id": "ACC62B26F4D596C4F0483469A10543DC92ER",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "d0329d6134f5427493e2fc2cf4aa63ab",
+                    "visit_id": "a67796afd2eb49728eb37f8425268b98-1784871157934",
+                    "added_at": "2026-07-24T11:02:46.341643"
+                },
+                "device": {
+                    "brand": "Vivo",
+                    "model": "Y75",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003.C1",
+                    "app_version": "2291179"
+                }
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B": {
+                "phone": "6398703797",
+                "account_id": "ACCAA99819D826C4323B512FBF25A1D4483B",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4NzMwOTcsImlhdCI6MTc4NDg3MTI5NywiaXNzIjoia2V2bGFyIiwianRpIjoiMjQ5MjExN2QtYjYwZi00M2NjLWFhNmUtYTkzZGJjYjg1ODI3IiwidHlwZSI6IkFUIiwiZElkIjoiYzMyOTQ5NmQxYTIwNGY2NTkwNzI0YTM1YTcxOTY5MTgiLCJiSWQiOiJDMUxPRUYiLCJrZXZJZCI6IlZJRjRDMUE5MjY4Njc4NDQ0MEI3M0EzNTQ0QkUxMDY2RjciLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkpVVUxpZ1Z1WTl5ZzZ3amFTZVVOTlBFTFhhRl9haFo3aUt2V2lfaUs0UXBmbUNQcTc1Z1dyUT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.pZHK3i-6uxSZZUqrfbwb4PgF0EhsFlyji98HaZkd1pE",
+                    "sn": "VIF4C1A92686784440B73A3544BE1066F7.TOKAFFEAB4D47EE42C9B6D2919F2C6370CE.0.LI",
+                    "vid": "VIF4C1A92686784440B73A3544BE1066F7",
+                    "secure_token": "VIF4C1A92686784440B73A3544BE1066F7:VIF4C1A92686784440B73A3544BE1066F7",
+                    "secure_cookie": "d1t17OE8/PyFBWmk/P1k/P0MsP5Xs5KjZHa/fzAfGdghjB42UpW3B8PhWpsspiAWygnzEHEKOcJsxgT4eQqvQeYiXaw==",
+                    "account_id": "ACCAA99819D826C4323B512FBF25A1D4483B",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "c329496d1a204f6590724a35a7196918",
+                    "visit_id": "530345f3e99b4f7aa5b48ea5ba38b914-1784871269057",
+                    "added_at": "2026-07-24T11:04:58.154196"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-N976B",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.B1",
+                    "app_version": "2291175"
+                }
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R": {
+                "phone": "9318301536",
+                "account_id": "ACC85829CD7A6364207BFDF757BB22CC716R",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4NzQxMjAsImlhdCI6MTc4NDg3MjMyMCwiaXNzIjoia2V2bGFyIiwianRpIjoiMDM3ZjhhZjAtYmQ1Yi00MjUxLWFhN2QtMzQ4MjZiODZkMmIyIiwidHlwZSI6IkFUIiwiZElkIjoiNTkwZjdjNWM0NmYwNDhlM2EyNWVkZjZlZmZkZTE0MDgiLCJiSWQiOiJMTUxOWFAiLCJrZXZJZCI6IlZJRDg3Nzk2QjNDMjc3NEIyNzlDNTAzNEY3MUExM0NFQkIiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjBESzFoZkpIYk9OT3ZVMHQ4NjE1TGZRYzFSd0phOXRqSEQ3OEFxN3BRdnc4TlE3Z3oyNWcwQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.3wQudm-j6SEhqbLnK9hvNiNiu3f0OqFuvujhdt_HoBs",
+                    "sn": "VID87796B3C2774B279C5034F71A13CEBB.TOK0DD32498D21A4812836D080C45B70CF6.0.LI",
+                    "vid": "VID87796B3C2774B279C5034F71A13CEBB",
+                    "secure_token": "VID87796B3C2774B279C5034F71A13CEBB:VID87796B3C2774B279C5034F71A13CEBB",
+                    "secure_cookie": "d1t17CS4tPxI/cD8DAz8xbz8/Jk+bScRGOsUvg+ToXSsbgeSenGDCUmGDXFfurUOjD31zri39pXZSCpeYu/AMzS+tTQ==",
+                    "account_id": "ACC85829CD7A6364207BFDF757BB22CC716R",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "590f7c5c46f048e3a25edf6effde1408",
+                    "visit_id": "1ad36072b8014472a8b01580f15797ee-1784872306094",
+                    "added_at": "2026-07-24T11:22:00.960618"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "Realme 10 Pro",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.B1",
+                    "app_version": "2291175"
+                }
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191": {
+                "phone": "8882680882",
+                "account_id": "ACC7B8917EE50534B88AA41ABA5445EB191",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4NzQ0MTksImlhdCI6MTc4NDg3MjYxOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNTM2YWZkZjQtMTA1MC00ZDYyLWI5ZmMtM2ViYTQ4ZjNmMjgyIiwidHlwZSI6IkFUIiwiZElkIjoiZjI2M2M5MzJkZjIxNGNhZTg4ZmM0ODAxYWI4ZGM5ZjgiLCJiSWQiOiJPRFVQTU8iLCJrZXZJZCI6IlZJODU0RDVBOEE0QjlGNDNFNkE4MDQ4M0ZGOUQ0NUEwNTAiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjBUOGJVd1dsYktPanA5S2MzbGE1dXotMXJIWDRHTG1PT0xqdEd0bk5paVNYdEVRRlBBM3g4QT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.yRfObC3lC0DY5Zpgbc9Wr5nYpf-XOUAHcutowQiyrG8",
+                    "sn": "VI854D5A8A4B9F43E6A80483FF9D45A050.TOK42B21325A1F343A7A26553E3D96501D3.0.LI",
+                    "vid": "VI854D5A8A4B9F43E6A80483FF9D45A050",
+                    "secure_token": "VI854D5A8A4B9F43E6A80483FF9D45A050:VI854D5A8A4B9F43E6A80483FF9D45A050",
+                    "secure_cookie": "d1t15aj8/Pww/aAE/Pz8nPz8/Py0/zaUyIdQTp0o+2gE2+4noO63+mNazu7zLZwdLdsoHBFQlEWQbVJnvOxUA9NFNbQ==",
+                    "account_id": "ACC7B8917EE50534B88AA41ABA5445EB191",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "f263c932df214cae88fc4801ab8dc9f8",
+                    "visit_id": "a59bc79ab302475d87e2661d8f245bc5-1784872388438",
+                    "added_at": "2026-07-24T11:27:00.091040"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "GT Neo 3",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.C1",
+                    "app_version": "2291178"
+                }
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6": {
+                "phone": "7455071132",
+                "account_id": "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4Nzg3NDgsImlhdCI6MTc4NDg3Njk0OCwiaXNzIjoia2V2bGFyIiwianRpIjoiZjJmNjQ1MjItMzNiNC00ODc2LWJhZTItODBiNGYzYjQ3NTc5IiwidHlwZSI6IkFUIiwiZElkIjoiZmRlNDg1MTdlZWNjNDlmZWFhMTM1ZGVjMDg2ZjA2MmMiLCJiSWQiOiJDN0JESlQiLCJrZXZJZCI6IlZJRjdEMEY3MzcyRTE5NDZDQzkxODA3MzQzQjM3QjM0RTMiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjAzVnVJRTZaMmt3VEFNS1lCSG8tU0NuRThIc0R0cll4djFza1lyN2hWcG0wb2tVM1VhTkFZZz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.zx_OUoB5aO1udI4kNj_KQPvM8YO3nKBOVv5KkTPhjJE",
+                    "sn": "VIF7D0F7372E1946CC91807343B37B34E3.TOK6DA6CF1421004845BE20F677DC3F6EFB.0.LI",
+                    "vid": "VIF7D0F7372E1946CC91807343B37B34E3",
+                    "secure_token": "VIF7D0F7372E1946CC91807343B37B34E3:VIF7D0F7372E1946CC91807343B37B34E3",
+                    "secure_cookie": "d1t19Pz8/Pz9mPxk/Pz8nBjIROoEGz1ZZU3GS0Yd27Y9fjW1rOTZPt9rwrYkHRlM5yse28C0vQd6sq2hDb136Lyuc4Q==",
+                    "account_id": "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "fde48517eecc49feaa135dec086f062c",
+                    "visit_id": "904939cc2004407db75118797f0a93b3-1784876919547",
+                    "added_at": "2026-07-24T12:39:09.590791"
+                },
+                "device": {
+                    "brand": "OnePlus",
+                    "model": "OnePlus 8",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.A1",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Super Runner": {
+                "completed_at": "2026-07-24T11:02:06.358418",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_City Builder": {
+                "completed_at": "2026-07-24T11:02:07.781175",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Fruit Crush": {
+                "completed_at": "2026-07-24T11:02:09.157694",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Grocery Match": {
+                "completed_at": "2026-07-24T11:02:10.733538",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Ludo": {
+                "completed_at": "2026-07-24T11:02:12.076841",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Nazar Pop": {
+                "completed_at": "2026-07-24T11:02:14.108262",
+                "earned_coins": 0
+            },
+            "ACCD3582D69034545C492673FC2ECCAC1C2T_Gullak": {
+                "completed_at": "2026-07-24T11:02:15.635880",
+                "earned_coins": 0
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Super Runner": {
+                "completed_at": "2026-07-24T11:02:56.689228",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_City Builder": {
+                "completed_at": "2026-07-24T11:02:59.493409",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Fruit Crush": {
+                "completed_at": "2026-07-24T11:03:02.401224",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Grocery Match": {
+                "completed_at": "2026-07-24T11:03:05.248179",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Ludo": {
+                "completed_at": "2026-07-24T11:03:08.154282",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Nazar Pop": {
+                "completed_at": "2026-07-24T11:03:10.994832",
+                "earned_coins": 4
+            },
+            "ACC62B26F4D596C4F0483469A10543DC92ER_Gullak": {
+                "completed_at": "2026-07-24T11:03:12.549688",
+                "earned_coins": 0
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Super Runner": {
+                "completed_at": "2026-07-24T11:05:10.226481",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_City Builder": {
+                "completed_at": "2026-07-24T11:05:13.207342",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Fruit Crush": {
+                "completed_at": "2026-07-24T11:05:16.369764",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Grocery Match": {
+                "completed_at": "2026-07-24T11:05:19.544850",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Ludo": {
+                "completed_at": "2026-07-24T11:05:22.840528",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Nazar Pop": {
+                "completed_at": "2026-07-24T11:05:29.071095",
+                "earned_coins": 4
+            },
+            "ACCAA99819D826C4323B512FBF25A1D4483B_Gullak": {
+                "completed_at": "2026-07-24T11:05:30.499269",
+                "earned_coins": 0
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Super Runner": {
+                "completed_at": "2026-07-24T11:22:26.694153",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_City Builder": {
+                "completed_at": "2026-07-24T11:22:29.604887",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Fruit Crush": {
+                "completed_at": "2026-07-24T11:22:32.749616",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Grocery Match": {
+                "completed_at": "2026-07-24T11:22:35.651261",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Ludo": {
+                "completed_at": "2026-07-24T11:22:38.612870",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Nazar Pop": {
+                "completed_at": "2026-07-24T11:22:41.743265",
+                "earned_coins": 4
+            },
+            "ACC85829CD7A6364207BFDF757BB22CC716R_Gullak": {
+                "completed_at": "2026-07-24T11:22:43.189553",
+                "earned_coins": 0
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Super Runner": {
+                "completed_at": "2026-07-24T11:27:14.626212",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_City Builder": {
+                "completed_at": "2026-07-24T11:27:17.421617",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Fruit Crush": {
+                "completed_at": "2026-07-24T11:27:20.276628",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Grocery Match": {
+                "completed_at": "2026-07-24T11:27:23.149627",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Ludo": {
+                "completed_at": "2026-07-24T11:27:26.119775",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Nazar Pop": {
+                "completed_at": "2026-07-24T11:27:31.632666",
+                "earned_coins": 4
+            },
+            "ACC7B8917EE50534B88AA41ABA5445EB191_Gullak": {
+                "completed_at": "2026-07-24T11:27:33.092825",
+                "earned_coins": 0
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Super Runner": {
+                "completed_at": "2026-07-24T12:39:22.565212",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_City Builder": {
+                "completed_at": "2026-07-24T12:39:25.859492",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Fruit Crush": {
+                "completed_at": "2026-07-24T12:39:29.147955",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Grocery Match": {
+                "completed_at": "2026-07-24T12:39:32.514378",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Ludo": {
+                "completed_at": "2026-07-24T12:39:35.810929",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Nazar Pop": {
+                "completed_at": "2026-07-24T12:39:39.144208",
+                "earned_coins": 4
+            },
+            "ACC4058E026E5EE4FABA0BC3A395FF3ABCE6_Gullak": {
+                "completed_at": "2026-07-24T12:39:40.740314",
+                "earned_coins": 0
+            }
+        }
+    },
+    "8821954527": {
+        "points": 3
+    },
+    "8578629060": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "6114673323": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-24T13:06:32.809191",
+        "referred_verified": true,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "points": 3,
+        "accounts": {
+            "ACCB087B7061851450AA44B5AF2EE31B9F2": {
+                "phone": "8275938401",
+                "account_id": "ACCB087B7061851450AA44B5AF2EE31B9F2",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODA0NzQsImlhdCI6MTc4NDg3ODY3NCwiaXNzIjoia2V2bGFyIiwianRpIjoiOGIyZDZiYjgtMmRkNi00ZmU1LWFhNzYtMTBhN2ExYmE2OTFiIiwidHlwZSI6IkFUIiwiZElkIjoiNjc1MWQ5ODdkMTVlNDgxNjliNDY1YzU4ODYzNmIyZWYiLCJiSWQiOiJBNTVGQ1AiLCJrZXZJZCI6IlZJMzE1MzkzRTg1RThDNDRENkE1MDdDMTU0QUNGM0I5MzgiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ik1SZ2l2NXNDT29qZVlQeEQ2RWQ1clc1NVFQeE4xSE9DaG83TWYtaTNZaHowMGVsZ0Zja1U5QT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.fqt5kocES1KKZE3fpS4gdK5yLwIERZNTxZYFwdzxa5g",
+                    "sn": "VI315393E85E8C44D6A507C154ACF3B938.TOK2D21EF524E3543AE87E5AD9182DFC028.0.LI",
+                    "vid": "VI315393E85E8C44D6A507C154ACF3B938",
+                    "secure_token": "VI315393E85E8C44D6A507C154ACF3B938:VI315393E85E8C44D6A507C154ACF3B938",
+                    "secure_cookie": "d1t19Pz8/P1M/Xz9sLT8/KHoDHVD/50pm/3XFtHbSLeLm0bO6/1Wgp9/7FINUq5Wv+/6SrCea4pqttKpjh7fUh2KWtA==",
+                    "account_id": "ACCB087B7061851450AA44B5AF2EE31B9F2",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "6751d987d15e48169b465c588636b2ef",
+                    "visit_id": "54f673f1a23f403b9d73dba59e9b2e85-1784878626602",
+                    "added_at": "2026-07-24T13:07:55.096041"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-X800",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.D1",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "task_history": {
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Super Runner": {
+                "completed_at": "2026-07-24T13:08:16.815535",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_City Builder": {
+                "completed_at": "2026-07-24T13:08:19.562743",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Fruit Crush": {
+                "completed_at": "2026-07-24T13:08:22.424028",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Grocery Match": {
+                "completed_at": "2026-07-24T13:08:25.020388",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Ludo": {
+                "completed_at": "2026-07-24T13:08:27.856634",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Nazar Pop": {
+                "completed_at": "2026-07-24T13:08:30.688053",
+                "earned_coins": 4
+            },
+            "ACCB087B7061851450AA44B5AF2EE31B9F2_Gullak": {
+                "completed_at": "2026-07-24T13:08:32.213111",
+                "earned_coins": 0
+            }
+        }
+    },
+    "6365739692": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC2D86875BA45A4225B946AD50DC9DE00E": {
+                "phone": "9680491489",
+                "account_id": "ACC2D86875BA45A4225B946AD50DC9DE00E",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODA0NzIsImlhdCI6MTc4NDg3ODY3MiwiaXNzIjoia2V2bGFyIiwianRpIjoiZDY4NjI3OGMtOGQ1Ny00YTk2LWFhYTktOGEwOWQwMGU2MzQ5IiwidHlwZSI6IkFUIiwiZElkIjoiYzM1M2Y0ODdiZWRhNGM1MDgyZTJhMTJkZjk4YzE3MWIiLCJiSWQiOiJCMkZJR0IiLCJrZXZJZCI6IlZJOTE2RTNBRkU2QjhENEFCRkEwODcwMzc4OTg4NEEzQjAiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6ImZ1NzQzMVRfb3pGS0hJVnk2NVRmTzVZZ0pYSHhvMzN2V1l2RjJRazJjaFYtUG9MbnprbUNqUT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.X0fjHB21-Y5s10M7kxYXlAodXwEIKk6tawwjkGgvFFo",
+                    "sn": "VI916E3AFE6B8D4ABFA08703789884A3B0.TOK9C37E0A92E3A4E1AA7C4AC496CB9ACAE.0.LI",
+                    "vid": "VI916E3AFE6B8D4ABFA08703789884A3B0",
+                    "secure_token": "VI916E3AFE6B8D4ABFA08703789884A3B0:VI916E3AFE6B8D4ABFA08703789884A3B0",
+                    "secure_cookie": "d1t12Pz9zP0g/P1ZJfD8/Pz8/M444Es5S3YUenmX1oodxgoDy3v1FxAJPzU8B61lBCssGpFrMM02ei1fbVpSueucY6g==",
+                    "account_id": "ACC2D86875BA45A4225B946AD50DC9DE00E",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "c353f487beda4c5082e2a12df98c171b",
+                    "visit_id": "ded6f4af3e974daba335f95ac0d2886d-1784878660412",
+                    "added_at": "2026-07-24T13:07:53.097048"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-F946B",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.C1",
+                    "app_version": "2291176"
+                }
+            }
+        },
+        "task_history": {
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Super Runner": {
+                "completed_at": "2026-07-24T13:08:19.549248",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_City Builder": {
+                "completed_at": "2026-07-24T13:08:22.454681",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Fruit Crush": {
+                "completed_at": "2026-07-24T13:08:25.726452",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Grocery Match": {
+                "completed_at": "2026-07-24T13:08:29.019509",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Ludo": {
+                "completed_at": "2026-07-24T13:08:31.818805",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Nazar Pop": {
+                "completed_at": "2026-07-24T13:08:34.554235",
+                "earned_coins": 1
+            },
+            "ACC2D86875BA45A4225B946AD50DC9DE00E_Gullak": {
+                "completed_at": "2026-07-24T13:08:36.076520",
+                "earned_coins": 0
+            }
+        }
+    },
+    "8569592181": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "1353669187": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "699868387": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACCE47C7592909B4778A54FE459548217B86": {
+                "phone": "8420029012",
+                "account_id": "ACCE47C7592909B4778A54FE459548217B86",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4ODA3MTAsImlhdCI6MTc4NDg3ODkxMCwiaXNzIjoia2V2bGFyIiwianRpIjoiNjA5YjBhNmEtOGEzZi00ZTc4LTk4ZmQtMTg3OGRkNjMxMzNhIiwidHlwZSI6IkFUIiwiZElkIjoiZmM4ZmU4NDI0YTFkNDc5NDg1ZDFmY2U4MzNmMGE5NDAiLCJiSWQiOiJVTEo0R1oiLCJrZXZJZCI6IlZJRUY2MUVFNDQyQThDNDY3OUIzN0Q2RkQ0MTI1MTlBQTciLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IlBTTkRuNlptTHc3QUs5bkVCSFhsZFdYTUJfdTJMeVh6b0JDSW13ZGxfSFpncm9RSVhmcnMtdz09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.QY1Iopy2eomUe8zFbXr2dtv2K21VR2Mi2kGGeio2Q88",
+                    "sn": "VIEF61EE442A8C4679B37D6FD412519AA7.TOK7FBCF856C9BB40DAA7D12E460A8A38A3.0.LI",
+                    "vid": "VIEF61EE442A8C4679B37D6FD412519AA7",
+                    "secure_token": "VIEF61EE442A8C4679B37D6FD412519AA7:VIEF61EE442A8C4679B37D6FD412519AA7",
+                    "secure_cookie": "d1t13Pz8jYD9XCD8/Pz8/bSI/P/reRutIpHt25l886MG2jVEls4hQyYgveA2UdjEY9RovylcN3iLfD/fbbyjOwsVMGA==",
+                    "account_id": "ACCE47C7592909B4778A54FE459548217B86",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "fc8fe8424a1d479485d1fce833f0a940",
+                    "visit_id": "d21d24ed17164f4684694d2d2a06418e-1784878897541",
+                    "added_at": "2026-07-24T13:11:50.951203"
+                },
+                "device": {
+                    "brand": "Asus",
+                    "model": "Zenfone 10",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003.C1",
+                    "app_version": "2291178"
+                }
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE": {
+                "phone": "6290109896",
+                "account_id": "ACC403CD260184A441BB56CE0FAC64516FEE",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODA5OTgsImlhdCI6MTc4NDg3OTE5OCwiaXNzIjoia2V2bGFyIiwianRpIjoiYzRiOGQ1NGQtM2UwZC00M2VmLWFjYmQtZTA4Zjg1MjcwMDQ3IiwidHlwZSI6IkFUIiwiZElkIjoiNjVkNWM4MzY2NWY3NGI5ZTg3MWIwMGQ5OTdmYWFjMDMiLCJiSWQiOiJBTVo4Q08iLCJrZXZJZCI6IlZJOEVEQ0M1ODM4Q0ZCNEQ1MkEwNDEwNkQzQzk1QjE1NTEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjlHVlVUOXhaelRCOVN5SVdLdDlYYXo4ZjE5TS10N084Wk5xeXRPbkVXdkJyY2piQVhxWDdWQT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.8984pF6-fTOaLyeIBM0u7PrTyffL_OXs7VBP4WqZMXU",
+                    "sn": "VI8EDCC5838CFB4D52A04106D3C95B1551.TOK384B45E2B6694084B37C02F581E51F8C.0.LI",
+                    "vid": "VI8EDCC5838CFB4D52A04106D3C95B1551",
+                    "secure_token": "VI8EDCC5838CFB4D52A04106D3C95B1551:VI8EDCC5838CFB4D52A04106D3C95B1551",
+                    "secure_cookie": "d1t16NT8/Pz8/XD92P2kXPz8/P/pEjiSYUOUA5DyJEZ4uoYZ36tBsEWsVdqnG8XP84KYvf3EQowLP1J+/HMxyxrkBBw==",
+                    "account_id": "ACC403CD260184A441BB56CE0FAC64516FEE",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "65d5c83665f74b9e871b00d997faac03",
+                    "visit_id": "d1bed42501174a1ca02bb196bfaad215-1784879188178",
+                    "added_at": "2026-07-24T13:16:39.297766"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "Realme C55",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.B1",
+                    "app_version": "2291178"
+                }
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D": {
+                "phone": "9831989930",
+                "account_id": "ACC420D488CD19046A992135EEF4CC8FCB9D",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODE1MjMsImlhdCI6MTc4NDg3OTcyMywiaXNzIjoia2V2bGFyIiwianRpIjoiNTJjZGJlNGEtNmU0NS00Yjg4LWFjZTYtMjlkZDI1MWZmMGM1IiwidHlwZSI6IkFUIiwiZElkIjoiMWIzMmNiMzJmMjEyNDE0ZDhhYTJiNWRhZjkyYjIxNWMiLCJiSWQiOiJLU1NGQ1QiLCJrZXZJZCI6IlZJQkRDOTVGNzY3NEUyNDQ0OTkwQ0IxRUNGMzdCQ0VEMEQiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Im1xeVZWUDNCM3JndTdNajJxWWFtdERfU055Z2x0ZC05WXNwd1MybVozMjFKREVyV3RkaVl3UT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.NLFZyM0LtTCPxlOpo0XqYXC_JlDK7U8qZnrFqKRB4Q4",
+                    "sn": "VIBDC95F7674E2444990CB1ECF37BCED0D.TOKFC59BB73D93A40EF96E7B8B757D2ED4B.0.LI",
+                    "vid": "VIBDC95F7674E2444990CB1ECF37BCED0D",
+                    "secure_token": "VIBDC95F7674E2444990CB1ECF37BCED0D:VIBDC95F7674E2444990CB1ECF37BCED0D",
+                    "secure_cookie": "d1t15Pz9YVj8CP1V+Pz8pP3c/P2tH5lAae/aytaPOvRovs/DgztPq1b5uFlKEGXjHX1AIdyDN0QcpqZk3gPM3l5QYzA==",
+                    "account_id": "ACC420D488CD19046A992135EEF4CC8FCB9D",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "1b32cb32f212414d8aa2b5daf92b215c",
+                    "visit_id": "ddb731bd712f458cba3cf99589215b17-1784879692082",
+                    "added_at": "2026-07-24T13:25:24.131133"
+                },
+                "device": {
+                    "brand": "Nothing",
+                    "model": "Nothing Phone (1)",
+                    "os_version": "13",
+                    "build": "TP1A.220624.014.D1",
+                    "app_version": "2291177"
+                }
+            }
+        },
+        "task_history": {
+            "ACCE47C7592909B4778A54FE459548217B86_Super Runner": {
+                "completed_at": "2026-07-24T13:20:29.734121",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_City Builder": {
+                "completed_at": "2026-07-24T13:20:31.378109",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_Fruit Crush": {
+                "completed_at": "2026-07-24T13:20:32.865252",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_Grocery Match": {
+                "completed_at": "2026-07-24T13:20:34.600194",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_Ludo": {
+                "completed_at": "2026-07-24T13:20:36.154145",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_Nazar Pop": {
+                "completed_at": "2026-07-24T13:20:38.382986",
+                "earned_coins": 0
+            },
+            "ACCE47C7592909B4778A54FE459548217B86_Gullak": {
+                "completed_at": "2026-07-24T13:20:44.151335",
+                "earned_coins": 0
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Super Runner": {
+                "completed_at": "2026-07-24T13:16:52.570329",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_City Builder": {
+                "completed_at": "2026-07-24T13:16:56.121769",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Fruit Crush": {
+                "completed_at": "2026-07-24T13:16:59.251184",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Grocery Match": {
+                "completed_at": "2026-07-24T13:17:03.063738",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Ludo": {
+                "completed_at": "2026-07-24T13:17:06.183194",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Nazar Pop": {
+                "completed_at": "2026-07-24T13:17:09.848755",
+                "earned_coins": 4
+            },
+            "ACC403CD260184A441BB56CE0FAC64516FEE_Gullak": {
+                "completed_at": "2026-07-24T13:17:11.496544",
+                "earned_coins": 0
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Super Runner": {
+                "completed_at": "2026-07-24T13:25:37.888798",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_City Builder": {
+                "completed_at": "2026-07-24T13:25:40.942937",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Fruit Crush": {
+                "completed_at": "2026-07-24T13:25:44.008795",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Grocery Match": {
+                "completed_at": "2026-07-24T13:25:47.468141",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Ludo": {
+                "completed_at": "2026-07-24T13:25:50.675941",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Nazar Pop": {
+                "completed_at": "2026-07-24T13:25:53.629319",
+                "earned_coins": 4
+            },
+            "ACC420D488CD19046A992135EEF4CC8FCB9D_Gullak": {
+                "completed_at": "2026-07-24T13:25:54.956885",
+                "earned_coins": 0
+            }
+        }
+    },
+    "7798113371": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-24T13:15:28.149479",
+        "referred_verified": true,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "points": 3,
+        "task_history": {
+            "ACCA688B7807C514CA6A24199814B45A7C8_Super Runner": {
+                "completed_at": "2026-07-24T14:09:18.122046",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_City Builder": {
+                "completed_at": "2026-07-24T14:09:19.770099",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_Fruit Crush": {
+                "completed_at": "2026-07-24T14:09:21.371255",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_Grocery Match": {
+                "completed_at": "2026-07-24T14:09:22.684899",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_Ludo": {
+                "completed_at": "2026-07-24T14:09:24.261608",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_Nazar Pop": {
+                "completed_at": "2026-07-24T14:09:25.606748",
+                "earned_coins": 0
+            },
+            "ACCA688B7807C514CA6A24199814B45A7C8_Gullak": {
+                "completed_at": "2026-07-24T14:09:27.445739",
+                "earned_coins": 0
+            }
+        }
+    },
+    "6327134261": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ]
+    },
+    "7145194875": {
+        "points": 3,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "accounts": {
+            "ACC448B8717845D4A14984C1309B2BB9A58": {
+                "phone": "6353375315",
+                "account_id": "ACC448B8717845D4A14984C1309B2BB9A58",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODE3NjEsImlhdCI6MTc4NDg3OTk2MSwiaXNzIjoia2V2bGFyIiwianRpIjoiOGQyMWI3ZTMtMjEyMC00MWMwLWE0YzQtYmVmYzU2MDk4ZTg5IiwidHlwZSI6IkFUIiwiZElkIjoiZjA4MWU1ZmEyZWZmNGNkMWIwYTUzNTk0NGNjNDhkODQiLCJiSWQiOiJIT1E1Q0YiLCJrZXZJZCI6IlZJMURGRUY0OTZFNkE5NDA5RkI1RUNFMzBEQ0U0MjVEQjQiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkVIVGtWbWltM0JfLUtqb2hTenBKX1JGQVBnbERiNFJkQnFFb3ItaGdfQTBSZmJXclNCeFAtQT09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.cfFhO9m1r37qolbUuQbnEeMIwfHr3S3ltEHiJbpUF1U",
+                    "sn": "VI1DFEF496E6A9409FB5ECE30DCE425DB4.TOK4A88D0BBBAEE4FE3AA467DBFB14FA097.0.LI",
+                    "vid": "VI1DFEF496E6A9409FB5ECE30DCE425DB4",
+                    "secure_token": "VI1DFEF496E6A9409FB5ECE30DCE425DB4:VI1DFEF496E6A9409FB5ECE30DCE425DB4",
+                    "secure_cookie": "d1t13Pzs/V1pDP10/GhBgSAs0P8bRiH0f+b4GpWlYTjopScRCk/bGR5bzkkbZ3Dk7WBXNN8VMczY9JCTQx0WjVzk/QQ==",
+                    "account_id": "ACC448B8717845D4A14984C1309B2BB9A58",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "f081e5fa2eff4cd1b0a535944cc48d84",
+                    "visit_id": "f5fafbb8d4b84cf0ba0256d1be7d431a-1784879944569",
+                    "added_at": "2026-07-24T13:29:22.294979"
+                },
+                "device": {
+                    "brand": "Vivo",
+                    "model": "V23 Pro",
+                    "os_version": "15",
+                    "build": "AP4A.240305.003.C1",
+                    "app_version": "2291179"
+                }
+            }
+        },
+        "task_history": {
+            "ACC448B8717845D4A14984C1309B2BB9A58_Super Runner": {
+                "completed_at": "2026-07-24T13:29:35.356178",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_City Builder": {
+                "completed_at": "2026-07-24T13:29:38.584543",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_Fruit Crush": {
+                "completed_at": "2026-07-24T13:29:43.709860",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_Grocery Match": {
+                "completed_at": "2026-07-24T13:29:46.888166",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_Ludo": {
+                "completed_at": "2026-07-24T13:29:49.854944",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_Nazar Pop": {
+                "completed_at": "2026-07-24T13:29:53.355289",
+                "earned_coins": 1
+            },
+            "ACC448B8717845D4A14984C1309B2BB9A58_Gullak": {
+                "completed_at": "2026-07-24T13:29:54.978585",
+                "earned_coins": 0
+            }
+        }
+    },
+    "1472809541": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-24T13:56:08.866255",
+        "referred_verified": true,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "points": 3,
+        "accounts": {
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W": {
+                "phone": "6304769736",
+                "account_id": "ACC21A59B41C76F4DA9A0C83963CB9D4D50W",
+                "session": {
+                    "dc_id": "2",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODM0MjAsImlhdCI6MTc4NDg4MTYyMCwiaXNzIjoia2V2bGFyIiwianRpIjoiNWUwZmI3NzUtNDZkNi00ZDdmLWIzZDgtZGRmZTQ4MTMyY2EyIiwidHlwZSI6IkFUIiwiZElkIjoiYThiMmZlNDM4NDZhNDhjODliMzdkZmYwYThiZjUwNzAiLCJiSWQiOiI5WllCTUUiLCJrZXZJZCI6IlZJQTQ2OUEzODY4MEY5NDlDNkI3RTRBRDE4RUZFMkYxNDciLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ik5LTEhkMnVTUElFT1pCeXdCZjJMckFNbGJPUExfaHREQ2YzS2IzSDZtY1VoNXF3WGJ3WFFKUT09IiwidnMiOiJMSSIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjEsImRvbSI6InNob3BzeSJ9.9pmaqsuEhL9CFvfbnetE7C1JrW7KRDFmRDGQsLoVITA",
+                    "sn": "VIA469A38680F949C6B7E4AD18EFE2F147.TOK06E6F00A8AA141C6A7CCDA0B0871A568.0.LI",
+                    "vid": "VIA469A38680F949C6B7E4AD18EFE2F147",
+                    "secure_token": "VIA469A38680F949C6B7E4AD18EFE2F147:VIA469A38680F949C6B7E4AD18EFE2F147",
+                    "secure_cookie": "d1t16Xj8/Pz9rPz97Pz8bPz8LPyKd927MCdrHdpMpL33u3wxh6Io9SbEPNSBYLHV8zzSCrKn8pGzIXksqNS/7HXuUeA==",
+                    "account_id": "ACC21A59B41C76F4DA9A0C83963CB9D4D50W",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "a8b2fe43846a48c89b37dff0a8bf5070",
+                    "visit_id": "8269bf9fd713424681d55ace1775ef06-1784881597558",
+                    "added_at": "2026-07-24T13:57:00.919696"
+                },
+                "device": {
+                    "brand": "OPPO",
+                    "model": "Find X3 Pro",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007",
+                    "app_version": "2291175"
+                }
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787": {
+                "phone": "9247555211",
+                "account_id": "ACCAC8307BC105244F1A24548169FFC0787",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODQ4ODM3MTAsImlhdCI6MTc4NDg4MTkxMCwiaXNzIjoia2V2bGFyIiwianRpIjoiOWNkNjRhNjctZGFiNy00NzFlLTk2OWMtYTAzOWQyZjdhOTMyIiwidHlwZSI6IkFUIiwiZElkIjoiMmExM2U1ZjhiNzNhNDlkODgxZTFmODhlMWRhYzVkNmMiLCJiSWQiOiJYQjlSMlUiLCJrZXZJZCI6IlZJOTRBOTBFNTA2MDFGNEI1RkIyRjcyQ0I3ODg2NDY1NDAiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IkNSem9mOWgwamdrZVN2SDNYQ0lNaXdlYV95clNaNGJfZDR1LWE4LUhITTI2RUlYc041T1Rsdz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.1DoiMuEzCbwPRF1ildo0hdOcRKAagIUPeGoQR-5qCGM",
+                    "sn": "VI94A90E50601F4B5FB2F72CB788646540.TOKAF67D9D5BB094C29BFFBDCBF2C439F44.0.LI",
+                    "vid": "VI94A90E50601F4B5FB2F72CB788646540",
+                    "secure_token": "VI94A90E50601F4B5FB2F72CB788646540:VI94A90E50601F4B5FB2F72CB788646540",
+                    "secure_cookie": "d1t19Enk/SD9xAT8dJj8yLj8MGwbzVdG510C22i3bnXfSeLralFpLIrtt1v6ZbAyv7VmMhvxSHHGkImkoYLYLspgpqw==",
+                    "account_id": "ACCAC8307BC105244F1A24548169FFC0787",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "2a13e5f8b73a49d881e1f88e1dac5d6c",
+                    "visit_id": "f3e2b4e4412943c499d866e5b52d8e3e-1784881896448",
+                    "added_at": "2026-07-24T14:01:51.470295"
+                },
+                "device": {
+                    "brand": "Realme",
+                    "model": "Realme C55",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.D1",
+                    "app_version": "2291175"
+                }
+            }
+        },
+        "task_history": {
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Super Runner": {
+                "completed_at": "2026-07-24T13:57:28.632027",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_City Builder": {
+                "completed_at": "2026-07-24T13:57:31.769508",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Fruit Crush": {
+                "completed_at": "2026-07-24T13:57:34.904632",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Grocery Match": {
+                "completed_at": "2026-07-24T13:57:38.548167",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Ludo": {
+                "completed_at": "2026-07-24T13:57:41.835654",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Nazar Pop": {
+                "completed_at": "2026-07-24T13:57:45.129659",
+                "earned_coins": 1
+            },
+            "ACC21A59B41C76F4DA9A0C83963CB9D4D50W_Gullak": {
+                "completed_at": "2026-07-24T13:57:46.601687",
+                "earned_coins": 0
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Super Runner": {
+                "completed_at": "2026-07-24T14:02:10.730567",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_City Builder": {
+                "completed_at": "2026-07-24T14:02:14.187793",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Fruit Crush": {
+                "completed_at": "2026-07-24T14:02:18.143864",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Grocery Match": {
+                "completed_at": "2026-07-24T14:02:21.376513",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Ludo": {
+                "completed_at": "2026-07-24T14:02:24.475087",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Nazar Pop": {
+                "completed_at": "2026-07-24T14:02:27.658048",
+                "earned_coins": 1
+            },
+            "ACCAC8307BC105244F1A24548169FFC0787_Gullak": {
+                "completed_at": "2026-07-24T14:02:29.654888",
+                "earned_coins": 0
+            }
+        }
+    },
+    "8624417586": {
+        "referred_by": "1429768597",
+        "referred_at": "2026-07-24T13:58:43.144992",
+        "referred_verified": true,
+        "joined_programs": [
+            "airdrop",
+            "community"
+        ],
+        "points": 3,
+        "accounts": {
+            "ACC4387D799645B43E1B34DBADAD223DF2F": {
+                "phone": "9660569983",
+                "account_id": "ACC4387D799645B43E1B34DBADAD223DF2F",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3ODQ4ODM2MDMsImlhdCI6MTc4NDg4MTgwMywiaXNzIjoia2V2bGFyIiwianRpIjoiMTFiYTI1N2MtMTk4NS00YmQ2LWE4ZDUtMjIzNGEyZTdkY2Q1IiwidHlwZSI6IkFUIiwiZElkIjoiMWExNmU1NTI1YTI2NGYzMmI2YTJjNDhjOTdlZmY4NjEiLCJiSWQiOiJYR1FMNUwiLCJrZXZJZCI6IlZJQUY2NDhERDMyMkZENEE4OUFBMDI5RTRCQzNFNjFGNzEiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6Ii1sVUg4MDFIRF9SaW1SVlJkY1JaSFhVLTFCN0NFZnp2dmFaQ3MzTFFOSGZ4dGRJOWRncFZGZz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.CNck4YUey2vmY23hfk7zL7i11iqmczgy_0k5zmmAbuo",
+                    "sn": "VIAF648DD322FD4A89AA029E4BC3E61F71.TOKB3E7D7D18EC3437DA7A182D0BE611D73.0.LI",
+                    "vid": "VIAF648DD322FD4A89AA029E4BC3E61F71",
+                    "secure_token": "VIAF648DD322FD4A89AA029E4BC3E61F71:VIAF648DD322FD4A89AA029E4BC3E61F71",
+                    "secure_cookie": "d1t10fmE/Pz9PTT8/NSs/PwsKHMF/PsMWe7U6ZPiLZueqYf9iMybXS9DQCMP396xpA2N8BIBdPfrCeF+M3xba1cYmRA==",
+                    "account_id": "ACC4387D799645B43E1B34DBADAD223DF2F",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "1a16e5525a264f32b6a2c48c97eff861",
+                    "visit_id": "75de1c2532584cf19808965f55d6ee50-1784881772323",
+                    "added_at": "2026-07-24T14:00:04.443141"
+                },
+                "device": {
+                    "brand": "samsung",
+                    "model": "SM-A736B",
+                    "os_version": "14",
+                    "build": "UP1A.231005.007.C1",
+                    "app_version": "2291175"
+                }
+            }
+        },
+        "task_history": {
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Super Runner": {
+                "completed_at": "2026-07-24T14:07:19.852281",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_City Builder": {
+                "completed_at": "2026-07-24T14:07:21.388272",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Fruit Crush": {
+                "completed_at": "2026-07-24T14:07:23.071437",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Grocery Match": {
+                "completed_at": "2026-07-24T14:07:24.699009",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Ludo": {
+                "completed_at": "2026-07-24T14:07:26.047265",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Nazar Pop": {
+                "completed_at": "2026-07-24T14:07:27.497546",
+                "earned_coins": 0
+            },
+            "ACC4387D799645B43E1B34DBADAD223DF2F_Gullak": {
+                "completed_at": "2026-07-24T14:07:30.293541",
+                "earned_coins": 0
+            }
+        }
+    }
+}
