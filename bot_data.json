@@ -1,1 +1,32 @@
-
+{
+    "7178096331": {
+        "points": 1,
+        "accounts": {
+            "ACCD386373CFF594183BC4405CD4B209237": {
+                "phone": "9765484213",
+                "account_id": "ACCD386373CFF594183BC4405CD4B209237",
+                "session": {
+                    "dc_id": "1",
+                    "at": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjhlM2ZhMGE3LTJmZDMtNGNiMi05MWRjLTZlNTMxOGU1YTkxZiJ9.eyJleHAiOjE3ODU1MDk1ODMsImlhdCI6MTc4NTUwNzc4MywiaXNzIjoia2V2bGFyIiwianRpIjoiNTdmMmYxOGMtMzcwMy00ODM4LThhYjMtMjBkNjkwYjkwMjgxIiwidHlwZSI6IkFUIiwiZElkIjoiODQwYjdlNmRkYmU2NGMxMGI5MjRjNWYzNzU1NzI5MTQiLCJiSWQiOiJLOFFWQVoiLCJrZXZJZCI6IlZJQkY3MzY1N0M5Nzg4NEFFQzhBQUUzQUY0MjE2QkNGQzkiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IlRWRkU5Q0k2THNvSUVDak8wRTgxRDBBa3lCU0pQaVA2dGluNmNaQkltZnJIVkktUkNwbGdFZz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6MSwiZG9tIjoic2hvcHN5In0.eEFYE772K-9EZiovQPZFL7uJ7kQX0QkIRIYfwxqM_EA",
+                    "sn": "VIBF73657C97884AEC8AAE3AF4216BCFC9.TOK3BA290F072054532B32661D152269002.0.LI",
+                    "vid": "VIBF73657C97884AEC8AAE3AF4216BCFC9",
+                    "secure_token": "VIBF73657C97884AEC8AAE3AF4216BCFC9:VIBF73657C97884AEC8AAE3AF4216BCFC9",
+                    "secure_cookie": "d1t11P09eSSd0P3M/PwQ/Pz9YRZfb7y9GkJAUguxb5Ofal8ha0aF1qYJq3hqBYRl+M6ZKbshEJ852D35p9yrsZCfSbg==",
+                    "account_id": "ACCD386373CFF594183BC4405CD4B209237",
+                    "user_name": "",
+                    "is_logged_in": true,
+                    "device_id": "840b7e6ddbe64c10b924c5f375572914",
+                    "visit_id": "de881c71c7774caeac9c33cc8509b4ca-1785507741212",
+                    "added_at": "2026-07-31T19:53:03.227507"
+                },
+                "device": {
+                    "brand": "Asus",
+                    "model": "ROG Phone 6",
+                    "os_version": "12",
+                    "build": "SP1A.210812.016.D1",
+                    "app_version": "2291177"
+                }
+            }
+        }
+    }
+}
