@@ -32,7 +32,7 @@ from autobot import (
 )
 
 # ========== CONFIG ==========
-TOKEN = "8437134912:AAG0B2N7Miw2OUeWsW0ja2ITsm4_QAq0ZK8"
+TOKEN = "8785356635:AAF_eXQO1_KA9jtSyaSnUS5ZPigkgHHkV9Q"
 REQUIRED_CHANNEL = "@earnflowspidy"
 DB_FILE = "bot_data.json"
 ADMIN_LOG_FILE = "admin_actions.log"
