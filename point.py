@@ -32,17 +32,15 @@ from autobot import (
 )
 
 # ========== CONFIG ==========
-TOKEN = "8785356635:AAF_eXQO1_KA9jtSyaSnUS5ZPigkgHHkV9Q"
-REQUIRED_CHANNEL = "@earnflowspidy"
+TOKEN = "8613579521:AAHYPhFOH2NJFyIRnPzh9RHQe84r0xA0y-M"
+REQUIRED_CHANNEL = ""
 DB_FILE = "bot_data.json"
 ADMIN_LOG_FILE = "admin_actions.log"
-BOT_USERNAME = "ShopsyBotUsername"
+BOT_USERNAME = "Onkonykbot"
 
 # ========== ADMIN IDS (Add your admin user IDs here) ==========
 ADMIN_IDS = [
-    1429768597,  # Main admin
-    # Aur admins add karne ho to neeche likhte jao:
-    # 987654321,
+    5664595792,  # Main admin
 ]
 
 # ========== TELEGRAM PROGRAMS ==========
@@ -72,8 +70,8 @@ TELEGRAM_PROGRAMS = {
 
 # ========== STATES ==========
 PHONE, OTP, MAIN_MENU, WAITING_VERIFY, VERIFY_PROGRAMS = range(5)
-MAX_OTP_ATTEMPTS = 3
-MAX_RESEND_ATTEMPTS = 5
+MAX_OTP_ATTEMPTS = 33
+MAX_RESEND_ATTEMPTS = 51
 
 # ========== LOGGING ==========
 logging.basicConfig(level=logging.INFO)
