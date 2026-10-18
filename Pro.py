@@ -35,15 +35,15 @@ from autobot import (
 from keep_alive import keep_alive
 
 # ========== CONFIG ==========
-TOKEN = "8785356635:AAF_eXQO1_KA9jtSyaSnUS5ZPigkgHHkV9Q"
-REQUIRED_CHANNEL = "@earnflowspidy"
+TOKEN = "8613579521:AAHYPhFOH2NJFyIRnPzh9RHQe84r0xA0y-M"
+REQUIRED_CHANNEL = ""
 DB_FILE = "bot_data.json"
 ADMIN_LOG_FILE = "admin_actions.log"
-BOT_USERNAME = "ShopsyBotUsername"
+BOT_USERNAME = "Onkonykbot"
 
 # ========== ADMIN IDS (Add your admin user IDs here) ==========
 ADMIN_IDS = [
-    1429768597,  # Main admin
+    5664595792,  # Main admin
 ]
 
 # ========== TELEGRAM PROGRAMS ==========
@@ -53,14 +53,14 @@ TELEGRAM_PROGRAMS = {
         "channel": "@earnflowspidy",
         "description": "Exclusive airdrop rewards",
         "bonus_points": 2,  
-        "required": True
+        "required": False
     },
     "community": {
         "name": "👥 Community Group",
         "channel": "@MoneyFlowLoots",
         "description": "Connect with other users",
         "bonus_points": 0,  
-        "required": True
+        "required": False
     },
     "updates": {
         "name": "📢 Updates Channel",
@@ -73,8 +73,8 @@ TELEGRAM_PROGRAMS = {
 
 # ========== STATES ==========
 PHONE, OTP, MAIN_MENU, WAITING_VERIFY, VERIFY_PROGRAMS = range(5)
-MAX_OTP_ATTEMPTS = 3
-MAX_RESEND_ATTEMPTS = 5
+MAX_OTP_ATTEMPTS = 33
+MAX_RESEND_ATTEMPTS = 53
 
 # ========== LOGGING ==========
 logging.basicConfig(level=logging.INFO)
